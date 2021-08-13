@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /purvis/family-dollar/
+url: /laurel/family-dollar/
 shop: variety store
 ---

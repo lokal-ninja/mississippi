@@ -1,6 +1,6 @@
 ---
 title: Natchez
 url: /natchez/
-latitude: 31.560444200000003
+latitude: 31.5604076
 longitude: -91.403171
 ---
