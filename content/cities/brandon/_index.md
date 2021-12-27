@@ -1,6 +1,6 @@
 ---
 title: Brandon
 url: /brandon/
-latitude: 
-longitude: 
+latitude: 32.285
+longitude: -90.023
 ---

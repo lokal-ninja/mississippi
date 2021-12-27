@@ -1,6 +1,6 @@
 ---
 title: Wiggins
 url: /wiggins/
-latitude: 32.70208
-longitude: -89.63674130000001
+latitude: 30.848
+longitude: -89.143
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pascagoula
 url: /pascagoula/
-latitude: 30.3646795
-longitude: -88.5585995
+latitude: 30.355
+longitude: -88.539
 ---

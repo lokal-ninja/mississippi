@@ -1,6 +1,6 @@
 ---
 title: Yazoo City
 url: /yazoo-city/
-latitude: 32.8550965
-longitude: -90.40564690000001
+latitude: 32.877
+longitude: -90.397
 ---

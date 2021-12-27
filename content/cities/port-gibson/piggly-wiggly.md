@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /port-gibson/piggly-wiggly/
-shop: supermarket
+shop: Supermarkt
 ---

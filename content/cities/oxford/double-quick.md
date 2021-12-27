@@ -1,5 +1,5 @@
 ---
 title: "Double Quick"
 url: /oxford/double-quick/
-shop: convenience
+shop: Lebensmittel
 ---

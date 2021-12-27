@@ -1,5 +1,5 @@
 ---
 title: "Rouses"
 url: /diamondhead/rouses/
-shop: supermarket
+shop: Supermarkt
 ---

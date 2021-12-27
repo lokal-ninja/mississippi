@@ -1,6 +1,6 @@
 ---
 title: Walnut
 url: /walnut/
-latitude: 34.1489999
-longitude: -90.3989834
+latitude: 34.952
+longitude: -88.91
 ---

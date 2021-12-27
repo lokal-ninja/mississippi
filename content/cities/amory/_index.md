@@ -1,6 +1,6 @@
 ---
 title: Amory
 url: /amory/
-latitude: 33.9869898
-longitude: -88.4856105
+latitude: 33.967
+longitude: -88.458
 ---

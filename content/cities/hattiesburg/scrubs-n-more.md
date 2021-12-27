@@ -1,5 +1,5 @@
 ---
 title: "Scrubs N More"
 url: /hattiesburg/scrubs-n-more/
-shop: clothes
+shop: Kleidung
 ---

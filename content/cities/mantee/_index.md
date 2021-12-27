@@ -1,6 +1,6 @@
 ---
 title: Mantee
 url: /mantee/
-latitude: 33.731506
-longitude: -89.05533960000001
+latitude: 33.733
+longitude: -89.034
 ---

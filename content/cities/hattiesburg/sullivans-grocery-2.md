@@ -1,5 +1,5 @@
 ---
 title: "Sullivan's Grocery"
 url: /hattiesburg/sullivans-grocery-2/
-shop: supermarket
+shop: Supermarkt
 ---

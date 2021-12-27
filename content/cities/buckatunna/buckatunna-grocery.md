@@ -1,5 +1,5 @@
 ---
 title: "Buckatunna Grocery"
 url: /buckatunna/buckatunna-grocery/
-shop: convenience
+shop: Lebensmittel
 ---

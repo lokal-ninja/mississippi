@@ -1,6 +1,6 @@
 ---
 title: Philadephia
 url: /philadephia/
-latitude: 
-longitude: 
+latitude: 32.772
+longitude: -89.11
 ---

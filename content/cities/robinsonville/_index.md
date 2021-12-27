@@ -1,6 +1,6 @@
 ---
 title: Robinsonville
 url: /robinsonville/
-latitude: 34.8173207
-longitude: -90.3162087
+latitude: 34.831
+longitude: -90.283
 ---

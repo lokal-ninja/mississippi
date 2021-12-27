@@ -1,6 +1,6 @@
 ---
 title: Senatobia
 url: /senatobia/
-latitude: 34.617567900000004
-longitude: -89.9687011
+latitude: 34.629
+longitude: -89.972
 ---

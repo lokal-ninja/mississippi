@@ -1,5 +1,5 @@
 ---
 title: "Garden Gate Florist"
 url: /petal/garden-gate-florist/
-shop: florist
+shop: Blumen
 ---

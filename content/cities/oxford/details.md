@@ -1,5 +1,5 @@
 ---
 title: "Details"
 url: /oxford/details/
-shop: party
+shop: Partyzubehör
 ---

@@ -1,6 +1,6 @@
 ---
 title: Eastabutchie
 url: /eastabutchie/
-latitude: 
-longitude: 
+latitude: 31.434
+longitude: -89.284
 ---

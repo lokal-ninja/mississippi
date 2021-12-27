@@ -1,5 +1,5 @@
 ---
 title: "Love's"
 url: /walnut/loves/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Clarksdale
 url: /clarksdale/
-latitude: 
-longitude: 
+latitude: 34.192
+longitude: -90.563
 ---

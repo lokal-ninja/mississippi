@@ -1,5 +1,5 @@
 ---
 title: "Sharkheads"
 url: /biloxi/sharkheads/
-shop: gift
+shop: Andenken
 ---

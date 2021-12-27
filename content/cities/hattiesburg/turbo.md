@@ -1,5 +1,5 @@
 ---
 title: "Turbo"
 url: /hattiesburg/turbo/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Crosty
 url: /crosty/
-latitude: 
-longitude: 
+latitude: 31.294
+longitude: -91.085
 ---

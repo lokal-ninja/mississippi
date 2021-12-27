@@ -1,5 +1,5 @@
 ---
 title: "Graham KTM"
 url: /senatobia/graham-ktm/
-shop: motorcycle
+shop: Motorrad
 ---

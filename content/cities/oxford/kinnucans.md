@@ -1,5 +1,5 @@
 ---
 title: "Kinnucan's"
 url: /oxford/kinnucans/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Butch Davis Chevrolet"
 url: /ripley/butch-davis-chevrolet/
-shop: car
+shop: Autohaus
 ---

@@ -1,6 +1,6 @@
 ---
 title: Brookhaven
 url: /brookhaven/
-latitude: 31.579058800000002
-longitude: -90.44065060000001
+latitude: 31.583
+longitude: -90.47
 ---

@@ -1,6 +1,6 @@
 ---
 title: Booneville
 url: /booneville/
-latitude: 34.6580327
-longitude: -88.5666451
+latitude: 34.678
+longitude: -88.565
 ---

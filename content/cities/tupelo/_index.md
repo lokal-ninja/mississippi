@@ -1,6 +1,6 @@
 ---
 title: Tupelo
 url: /tupelo/
-latitude: 34.257606700000004
-longitude: -88.7033859
+latitude: 34.318
+longitude: -88.703
 ---

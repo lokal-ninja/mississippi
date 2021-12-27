@@ -1,6 +1,6 @@
 ---
 title: Lucedale
 url: /lucedale/
-latitude: 30.925186900000003
-longitude: -88.5900235
+latitude: 30.902
+longitude: -88.595
 ---

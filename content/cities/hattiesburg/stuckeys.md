@@ -1,5 +1,5 @@
 ---
 title: "Stuckey's"
 url: /hattiesburg/stuckeys/
-shop: convenience
+shop: Lebensmittel
 ---

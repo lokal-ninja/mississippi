@@ -1,6 +1,6 @@
 ---
 title: Cleveland
 url: /cleveland/
-latitude: 32.751245000000004
-longitude: -88.8300516
+latitude: 33.757
+longitude: -90.712
 ---

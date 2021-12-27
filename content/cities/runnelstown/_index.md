@@ -1,6 +1,6 @@
 ---
 title: Runnelstown
 url: /runnelstown/
-latitude: 31.3758854
-longitude: -89.11170870000001
+latitude: 31.375
+longitude: -89.112
 ---

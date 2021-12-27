@@ -1,6 +1,6 @@
 ---
 title: Heidelberg
 url: /heidelberg/
-latitude: 31.886822400000003
-longitude: -88.9839419
+latitude: 31.906
+longitude: -89.015
 ---

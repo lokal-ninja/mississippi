@@ -1,5 +1,5 @@
 ---
 title: "Hair Time"
 url: /sumrall/hair-time/
-shop: beauty
+shop: Kosmetik
 ---

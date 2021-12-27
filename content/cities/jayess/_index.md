@@ -1,6 +1,6 @@
 ---
 title: Jayess
 url: /jayess/
-latitude: 31.3648962
-longitude: -90.20592330000001
+latitude: 31.348
+longitude: -90.243
 ---

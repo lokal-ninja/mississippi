@@ -1,5 +1,5 @@
 ---
 title: "Goodman's Grocery"
 url: /meridian/goodmans-grocery/
-shop: convenience
+shop: Lebensmittel
 ---

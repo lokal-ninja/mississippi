@@ -1,6 +1,6 @@
 ---
 title: Buckatunna
 url: /buckatunna/
-latitude: 31.539053000000003
-longitude: -88.52891550000001
+latitude: 31.551
+longitude: -88.531
 ---

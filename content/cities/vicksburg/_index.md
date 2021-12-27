@@ -1,6 +1,6 @@
 ---
 title: Vicksburg
 url: /vicksburg/
-latitude: 32.3528055
-longitude: -90.8777342
+latitude: 32.315
+longitude: -90.882
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunsations"
 url: /oxford/sunsations/
-shop: beauty
+shop: Kosmetik
 ---

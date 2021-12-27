@@ -1,5 +1,5 @@
 ---
 title: "RideSouth"
 url: /brandon/ridesouth/
-shop: bicycle
+shop: Fahrrad
 ---
