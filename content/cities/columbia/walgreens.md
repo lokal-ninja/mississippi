@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
-url: /petal/walgreens/
+url: /columbia/walgreens/
 shop: Drogerie
 ---
