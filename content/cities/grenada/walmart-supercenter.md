@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /grenada/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /heidelberg/chevron/
-shop: Lebensmittel
+shop: convenience
 ---

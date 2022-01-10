@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /perkinston/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

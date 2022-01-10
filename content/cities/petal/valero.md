@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /petal/valero/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dip Sticks"
 url: /oxford/dip-sticks/
-shop: Autowerkstatt
+shop: car repair
 ---

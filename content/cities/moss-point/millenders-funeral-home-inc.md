@@ -1,5 +1,5 @@
 ---
 title: "Millender's Funeral Home Inc"
 url: /moss-point/millenders-funeral-home-inc/
-shop: Bestattungen
+shop: funeral directors
 ---

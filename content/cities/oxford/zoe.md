@@ -1,5 +1,5 @@
 ---
 title: "Zoe"
 url: /oxford/zoe/
-shop: Modehaus
+shop: boutique
 ---

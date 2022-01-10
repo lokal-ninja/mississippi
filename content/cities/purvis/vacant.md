@@ -1,5 +1,5 @@
 ---
 title: "Vacant"
 url: /purvis/vacant/
-shop: Kramladen
+shop: variety store
 ---

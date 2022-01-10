@@ -1,5 +1,5 @@
 ---
 title: "Reliable RV Center"
 url: /biloxi/reliable-rv-center/
-shop: Autohaus
+shop: car
 ---

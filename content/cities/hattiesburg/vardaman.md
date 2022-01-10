@@ -1,5 +1,5 @@
 ---
 title: "Vardaman"
 url: /hattiesburg/vardaman/
-shop: Autohaus
+shop: car
 ---

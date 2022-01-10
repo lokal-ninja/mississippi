@@ -1,5 +1,5 @@
 ---
 title: "Provision Oxford"
 url: /oxford/provision-oxford/
-shop: Möbel
+shop: furniture
 ---

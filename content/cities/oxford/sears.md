@@ -1,5 +1,5 @@
 ---
 title: "Sears"
 url: /oxford/sears/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tobacco Superstore"
 url: /oxford/tobacco-superstore/
-shop: Tabak
+shop: tobacco
 ---

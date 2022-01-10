@@ -1,5 +1,5 @@
 ---
 title: "The Nail Shop"
 url: /oxford/the-nail-shop/
-shop: Kosmetik
+shop: beauty
 ---

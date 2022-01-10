@@ -1,5 +1,5 @@
 ---
 title: "Mitchell Tools"
 url: /hattiesburg/mitchell-tools/
-shop: Allgemein
+shop: shop
 ---

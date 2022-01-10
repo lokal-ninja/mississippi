@@ -1,5 +1,5 @@
 ---
 title: "C Spire"
 url: /hattiesburg/c-spire/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oxford Kubota"
 url: /oxford/oxford-kubota/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PCs+"
 url: /brandon/pcs/
-shop: Computer
+shop: computer
 ---

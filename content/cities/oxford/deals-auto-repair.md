@@ -1,5 +1,5 @@
 ---
 title: "Deal's Auto Repair"
 url: /oxford/deals-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

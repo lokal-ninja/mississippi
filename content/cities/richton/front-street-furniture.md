@@ -1,5 +1,5 @@
 ---
 title: "Front Street Furniture"
 url: /richton/front-street-furniture/
-shop: Möbel
+shop: furniture
 ---

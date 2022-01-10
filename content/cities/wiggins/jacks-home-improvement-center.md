@@ -1,5 +1,5 @@
 ---
 title: "Jack's Home Improvement Center"
 url: /wiggins/jacks-home-improvement-center/
-shop: Eisenwaren
+shop: hardware
 ---

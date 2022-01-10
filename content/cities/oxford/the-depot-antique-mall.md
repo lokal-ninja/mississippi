@@ -1,5 +1,5 @@
 ---
 title: "The Depot Antique Mall"
 url: /oxford/the-depot-antique-mall/
-shop: Antiquitäten
+shop: antiques
 ---

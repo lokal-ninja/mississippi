@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /heidelberg/valero/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Deep South Auto Recon Inc"
 url: /pearl/deep-south-auto-recon-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

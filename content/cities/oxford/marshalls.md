@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /oxford/marshalls/
-shop: Warenhaus
+shop: department store
 ---

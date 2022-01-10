@@ -1,5 +1,5 @@
 ---
 title: "Clark's"
 url: /biloxi/clarks/
-shop: Lebensmittel
+shop: convenience
 ---

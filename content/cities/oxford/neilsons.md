@@ -1,5 +1,5 @@
 ---
 title: "Neilson's"
 url: /oxford/neilsons/
-shop: Warenhaus
+shop: department store
 ---

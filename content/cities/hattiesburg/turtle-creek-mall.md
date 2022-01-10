@@ -1,5 +1,5 @@
 ---
 title: "Turtle Creek Mall"
 url: /hattiesburg/turtle-creek-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

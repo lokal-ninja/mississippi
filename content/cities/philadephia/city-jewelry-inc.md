@@ -1,5 +1,5 @@
 ---
 title: "City Jewelry INC."
 url: /philadephia/city-jewelry-inc/
-shop: Schmuck
+shop: jewelry
 ---

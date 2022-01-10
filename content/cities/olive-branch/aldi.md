@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /olive-branch/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

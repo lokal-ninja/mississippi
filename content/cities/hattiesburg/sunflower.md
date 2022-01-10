@@ -1,5 +1,5 @@
 ---
 title: "Sunflower"
 url: /hattiesburg/sunflower/
-shop: Supermarkt
+shop: supermarket
 ---

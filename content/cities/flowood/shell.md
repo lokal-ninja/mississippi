@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /flowood/shell/
-shop: Lebensmittel
+shop: convenience
 ---

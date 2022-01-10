@@ -1,5 +1,5 @@
 ---
 title: "Aamco Transmission"
 url: /hattiesburg/aamco-transmission-2/
-shop: Autowerkstatt
+shop: car repair
 ---

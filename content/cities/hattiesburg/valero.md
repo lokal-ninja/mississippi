@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /hattiesburg/valero/
-shop: Lebensmittel
+shop: convenience
 ---

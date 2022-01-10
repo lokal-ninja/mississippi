@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /hattiesburg/cvs-pharmacy/
-shop: Lebensmittel
+shop: convenience
 ---

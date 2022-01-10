@@ -1,5 +1,5 @@
 ---
 title: "Factory Connection"
 url: /oxford/factory-connection/
-shop: Allgemein
+shop: shop
 ---

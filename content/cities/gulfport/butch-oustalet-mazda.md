@@ -1,5 +1,5 @@
 ---
 title: "Butch Oustalet Mazda"
 url: /gulfport/butch-oustalet-mazda/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cannon Nissan"
 url: /oxford/cannon-nissan/
-shop: Autohaus
+shop: car
 ---

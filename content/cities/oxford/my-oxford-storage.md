@@ -1,5 +1,5 @@
 ---
 title: "My Oxford Storage"
 url: /oxford/my-oxford-storage/
-shop: Mieten
+shop: storage rental
 ---

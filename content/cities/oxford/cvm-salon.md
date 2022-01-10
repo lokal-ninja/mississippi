@@ -1,5 +1,5 @@
 ---
 title: "CVM Salon"
 url: /oxford/cvm-salon/
-shop: Kosmetik
+shop: beauty
 ---
