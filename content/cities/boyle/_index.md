@@ -1,6 +1,6 @@
 ---
 title: Boyle
 url: /boyle/
-latitude: 33.707
-longitude: -90.72
+latitude: 33.712
+longitude: -90.719
 ---
