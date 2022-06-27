@@ -7,5 +7,5 @@ city: Brookhaven
 street: "1232 US Hwy 51 NE"
 housenumber: 
 phone: "601-833-8612"
-opening_hours: "Monday: 7:00AM to 5:00PM Tuesday: 7:00AM to 5:00PM Wednesday: 7:00AM to 1:00PM Thursday: 7:00AM to 5:00PM Friday: 7:00AM to 5:00PM Saturday: 7:00AM to 12:00PM"
+opening_hours: "Mo,Tu,Th,Fr 07:00-17:00; We 07:00-13:00; Sa 07:00-12:00"
 website: "https://colinfeedandseed.com"
