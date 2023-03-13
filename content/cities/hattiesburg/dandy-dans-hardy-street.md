@@ -1,5 +1,5 @@
 ---
-title: "Dandy Dan's"
+title: "Dandy Dans"
 url: /hattiesburg/dandy-dans/
 shop: convenience
 ---
