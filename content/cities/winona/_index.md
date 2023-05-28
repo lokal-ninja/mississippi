@@ -1,6 +1,6 @@
 ---
 title: Winona
 url: /winona/
-latitude: 33.49
-longitude: -89.736
+latitude: 33.473
+longitude: -89.738
 ---
