@@ -1,6 +1,6 @@
 ---
 title: Hattiesburg
 url: /hattiesburg/
-latitude: 31.323
+latitude: 31.325
 longitude: -89.345
 ---
