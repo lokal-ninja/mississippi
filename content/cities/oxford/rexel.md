@@ -1,5 +1,5 @@
 ---
 title: "Rexel"
 url: /oxford/rexel/
-shop: shop
+shop: electrical
 ---
