@@ -1,6 +1,6 @@
 ---
 title: Starkville
 url: /starkville/
-latitude: 33.446
-longitude: -88.842
+latitude: 33.454
+longitude: -88.809
 ---

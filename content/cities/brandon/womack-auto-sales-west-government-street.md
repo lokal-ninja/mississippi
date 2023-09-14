@@ -1,5 +1,5 @@
 ---
 title: "Womack Auto Sales"
-url: /brandon/womack-auto-sales/
+url: /brandon/womack-auto-sales-west-government-street/
 shop: car
 ---

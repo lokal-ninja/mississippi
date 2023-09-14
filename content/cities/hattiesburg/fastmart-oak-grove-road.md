@@ -1,5 +1,5 @@
 ---
 title: "FastMart"
-url: /hattiesburg/fastmart/
+url: /hattiesburg/fastmart-oak-grove-road/
 shop: convenience
 ---

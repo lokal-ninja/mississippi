@@ -1,5 +1,5 @@
 ---
 title: "High Point Coffee"
-url: /oxford/high-point-coffee/
+url: /oxford/high-point-coffee-2/
 shop: coffee
 ---
