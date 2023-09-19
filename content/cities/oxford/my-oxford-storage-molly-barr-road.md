@@ -1,5 +1,5 @@
 ---
 title: "My Oxford Storage"
-url: /oxford/my-oxford-storage-highway-6-east/
+url: /oxford/my-oxford-storage-molly-barr-road/
 shop: storage rental
 ---
