@@ -1,6 +1,6 @@
 ---
 title: Horn Lake
 url: /horn-lake/
-latitude: 34.962
-longitude: -90.01
+latitude: 34.961
+longitude: -90.033
 ---
