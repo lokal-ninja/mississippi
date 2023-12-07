@@ -1,6 +1,6 @@
 ---
 title: Flowood
 url: /flowood/
-latitude: 32.355
-longitude: -90.024
+latitude: 32.342
+longitude: -90.064
 ---
