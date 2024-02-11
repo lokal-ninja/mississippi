@@ -1,6 +1,6 @@
 ---
 title: Carthage
 url: /carthage/
-latitude: 32.726
-longitude: -89.548
+latitude: 32.735
+longitude: -89.534
 ---
