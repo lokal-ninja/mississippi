@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /petal/dollar-general-ms-42/
+url: /petal/dollar-general-south-main-street/
 shop: variety store
 ---
