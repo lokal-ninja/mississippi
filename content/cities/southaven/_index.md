@@ -1,6 +1,6 @@
 ---
 title: Southaven
 url: /southaven/
-latitude: 34.993
-longitude: -90.023
+latitude: 34.961
+longitude: -89.935
 ---

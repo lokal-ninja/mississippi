@@ -1,6 +1,6 @@
 ---
 title: West Point
 url: /west-point/
-latitude: 33.587
-longitude: -88.662
+latitude: 33.588
+longitude: -88.66
 ---
