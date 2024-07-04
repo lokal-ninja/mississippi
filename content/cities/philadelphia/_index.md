@@ -1,6 +1,6 @@
 ---
 title: Philadelphia
 url: /philadelphia/
-latitude: 32.768
-longitude: -89.128
+latitude: 32.762
+longitude: -89.147
 ---

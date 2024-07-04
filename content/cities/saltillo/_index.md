@@ -1,6 +1,6 @@
 ---
 title: Saltillo
 url: /saltillo/
-latitude: 34.378
-longitude: -88.671
+latitude: 34.319
+longitude: -88.698
 ---
