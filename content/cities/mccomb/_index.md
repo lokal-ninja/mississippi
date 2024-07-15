@@ -1,6 +1,6 @@
 ---
 title: McComb
 url: /mccomb/
-latitude: 31.264
-longitude: -90.473
+latitude: 31.231
+longitude: -90.454
 ---
