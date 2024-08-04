@@ -1,6 +1,6 @@
 ---
 title: Biloxi
 url: /biloxi/
-latitude: 30.404
-longitude: -88.958
+latitude: 30.402
+longitude: -88.977
 ---
