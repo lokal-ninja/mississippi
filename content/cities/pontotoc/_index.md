@@ -1,6 +1,6 @@
 ---
 title: Pontotoc
 url: /pontotoc/
-latitude: 34.286
-longitude: -89.021
+latitude: 34.253
+longitude: -89.012
 ---

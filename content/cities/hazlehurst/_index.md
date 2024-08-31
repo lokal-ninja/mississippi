@@ -1,6 +1,6 @@
 ---
 title: Hazlehurst
 url: /hazlehurst/
-latitude: 31.871
-longitude: -90.409
+latitude: 31.872
+longitude: -90.41
 ---
