@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /meridian/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

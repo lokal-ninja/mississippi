@@ -1,5 +1,5 @@
 ---
 title: "Sacks Outdoors"
 url: /hattiesburg/sacks-outdoors/
-shop: outdoor
+shop: Outdoor
 ---

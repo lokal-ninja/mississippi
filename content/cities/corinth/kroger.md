@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /corinth/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

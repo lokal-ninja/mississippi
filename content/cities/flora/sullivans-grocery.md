@@ -1,5 +1,5 @@
 ---
 title: "Sullivan's Grocery"
 url: /flora/sullivans-grocery/
-shop: supermarket
+shop: Supermarkt
 ---

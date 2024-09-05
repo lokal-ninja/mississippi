@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /meridian/petco/
-shop: pet
+shop: Tiere
 ---

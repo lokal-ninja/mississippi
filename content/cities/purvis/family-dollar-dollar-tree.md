@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar/ Dollar Tree"
 url: /purvis/family-dollar-dollar-tree/
-shop: variety store
+shop: Kramladen
 ---

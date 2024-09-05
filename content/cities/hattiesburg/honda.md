@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /hattiesburg/honda/
-shop: motorcycle
+shop: Motorrad
 ---

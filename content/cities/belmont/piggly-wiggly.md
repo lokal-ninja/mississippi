@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /belmont/piggly-wiggly/
-shop: supermarket
+shop: Supermarkt
 ---

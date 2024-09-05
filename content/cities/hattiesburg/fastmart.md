@@ -1,5 +1,5 @@
 ---
 title: "Fastmart"
 url: /hattiesburg/fastmart/
-shop: convenience
+shop: Lebensmittel
 ---

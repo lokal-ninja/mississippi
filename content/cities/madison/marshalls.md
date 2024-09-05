@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /madison/marshalls/
-shop: general
+shop: Dorfladen
 ---

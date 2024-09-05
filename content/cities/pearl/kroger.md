@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /pearl/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

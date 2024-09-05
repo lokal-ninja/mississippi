@@ -1,5 +1,5 @@
 ---
 title: "Loft"
 url: /oxford/loft/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Academy Sports + Outdoors"
 url: /diberville/academy-sports-outdoors/
-shop: sports
+shop: Sport
 ---

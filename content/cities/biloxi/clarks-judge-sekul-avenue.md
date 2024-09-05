@@ -1,5 +1,5 @@
 ---
 title: "Clark's"
 url: /biloxi/clarks-judge-sekul-avenue/
-shop: convenience
+shop: Lebensmittel
 ---

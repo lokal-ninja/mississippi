@@ -1,5 +1,5 @@
 ---
 title: "Double Quick"
 url: /indianola/double-quick/
-shop: convenience
+shop: Lebensmittel
 ---

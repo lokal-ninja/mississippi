@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /corinth/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

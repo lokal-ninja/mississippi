@@ -1,5 +1,5 @@
 ---
 title: "Sullivan's"
 url: /gluckstadt/sullivans/
-shop: supermarket
+shop: Supermarkt
 ---

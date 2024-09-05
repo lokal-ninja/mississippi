@@ -1,5 +1,5 @@
 ---
 title: "Maples"
 url: /hattiesburg/maples/
-shop: convenience
+shop: Lebensmittel
 ---

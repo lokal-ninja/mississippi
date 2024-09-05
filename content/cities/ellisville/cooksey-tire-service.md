@@ -1,5 +1,5 @@
 ---
 title: "Cooksey Tire Service"
 url: /ellisville/cooksey-tire-service/
-shop: tyres
+shop: Reifen
 ---

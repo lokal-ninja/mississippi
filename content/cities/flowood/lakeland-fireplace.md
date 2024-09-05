@@ -1,5 +1,5 @@
 ---
 title: "Lakeland Fireplace"
 url: /flowood/lakeland-fireplace/
-shop: fireplace
+shop: Kamine & Öfen
 ---

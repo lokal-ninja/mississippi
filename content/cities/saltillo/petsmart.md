@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /saltillo/petsmart/
-shop: pet
+shop: Tiere
 ---

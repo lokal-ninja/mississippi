@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /lucedale/walmart-supercenter/
-shop: supermarket
+shop: Supermarkt
 ---

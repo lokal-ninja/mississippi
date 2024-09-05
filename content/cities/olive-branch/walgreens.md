@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /olive-branch/walgreens/
-shop: chemist
+shop: Drogerie
 ---

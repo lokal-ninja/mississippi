@@ -1,5 +1,5 @@
 ---
 title: "First Consumer Loans"
 url: /monticello/first-consumer-loans/
-shop: pawnbroker
+shop: Leiher
 ---

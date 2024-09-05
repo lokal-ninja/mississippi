@@ -1,5 +1,5 @@
 ---
 title: "Friendly City Books"
 url: /columbus/friendly-city-books/
-shop: books
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brooks Grocery"
 url: /tupelo/brooks-grocery/
-shop: supermarket
+shop: Supermarkt
 ---
