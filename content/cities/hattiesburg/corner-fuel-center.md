@@ -1,5 +1,5 @@
 ---
 title: "Corner Fuel Center"
 url: /hattiesburg/corner-fuel-center/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kiamie Package Store"
 url: /oxford/kiamie-package-store/
-shop: Spirituosen
+shop: alcohol
 ---

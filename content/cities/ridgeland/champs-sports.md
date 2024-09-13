@@ -1,5 +1,5 @@
 ---
 title: "Champs Sports"
 url: /ridgeland/champs-sports/
-shop: Sport
+shop: sports
 ---

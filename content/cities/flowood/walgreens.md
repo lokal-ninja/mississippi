@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /flowood/walgreens/
-shop: Drogerie
+shop: chemist
 ---

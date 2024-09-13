@@ -1,5 +1,5 @@
 ---
 title: "Elegant Creations"
 url: /hattiesburg/elegant-creations/
-shop: Kleidung
+shop: clothes
 ---

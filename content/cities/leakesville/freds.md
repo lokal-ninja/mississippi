@@ -1,5 +1,5 @@
 ---
 title: "Fred's"
 url: /leakesville/freds/
-shop: Kramladen
+shop: variety store
 ---

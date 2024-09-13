@@ -1,5 +1,5 @@
 ---
 title: "Henderson Funeral Home and Cremations"
 url: /olive-branch/henderson-funeral-home-and-cremations/
-shop: Bestattungen
+shop: funeral directors
 ---

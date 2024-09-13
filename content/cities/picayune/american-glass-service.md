@@ -1,5 +1,5 @@
 ---
 title: "American Glass Service"
 url: /picayune/american-glass-service/
-shop: Autowerkstatt
+shop: car repair
 ---

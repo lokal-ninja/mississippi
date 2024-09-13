@@ -1,5 +1,5 @@
 ---
 title: "Delta South Motors"
 url: /indianola/delta-south-motors/
-shop: Autohaus
+shop: car
 ---

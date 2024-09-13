@@ -1,5 +1,5 @@
 ---
 title: "Slick Kustomz"
 url: /columbus/slick-kustomz/
-shop: Autowerkstatt
+shop: car repair
 ---

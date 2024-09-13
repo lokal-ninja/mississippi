@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /southaven/office-depot/
-shop: Schreibwaren
+shop: office supplies
 ---

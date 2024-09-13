@@ -1,5 +1,5 @@
 ---
 title: "Finish Line"
 url: /hattiesburg/finish-line/
-shop: Lebensmittel
+shop: convenience
 ---

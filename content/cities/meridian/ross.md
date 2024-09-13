@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /meridian/ross/
-shop: Warenhaus
+shop: department store
 ---

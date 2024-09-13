@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /madison/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

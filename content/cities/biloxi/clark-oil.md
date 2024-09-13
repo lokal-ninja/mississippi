@@ -1,5 +1,5 @@
 ---
 title: "Clark Oil"
 url: /biloxi/clark-oil/
-shop: Lebensmittel
+shop: convenience
 ---

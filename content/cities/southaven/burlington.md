@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /southaven/burlington/
-shop: Warenhaus
+shop: department store
 ---

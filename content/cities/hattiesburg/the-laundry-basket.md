@@ -1,5 +1,5 @@
 ---
 title: "The Laundry Basket"
 url: /hattiesburg/the-laundry-basket/
-shop: Wäscherei
+shop: laundry
 ---

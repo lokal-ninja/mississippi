@@ -1,5 +1,5 @@
 ---
 title: "Trophy Shop"
 url: /oxford/trophy-shop/
-shop: Pokal
+shop: trophy
 ---

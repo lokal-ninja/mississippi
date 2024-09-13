@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /diberville/sherwin-williams/
-shop: Farben
+shop: paint
 ---

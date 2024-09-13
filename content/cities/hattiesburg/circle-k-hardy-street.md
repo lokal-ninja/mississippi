@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /hattiesburg/circle-k-hardy-street/
-shop: Lebensmittel
+shop: convenience
 ---

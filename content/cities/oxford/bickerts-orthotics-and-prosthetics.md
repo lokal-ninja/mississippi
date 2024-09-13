@@ -1,5 +1,5 @@
 ---
 title: "Bickert's Orthotics and Prosthetics"
 url: /oxford/bickerts-orthotics-and-prosthetics/
-shop: Sanitätshaus
+shop: medical supply
 ---

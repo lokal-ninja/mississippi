@@ -1,5 +1,5 @@
 ---
 title: "Gary's Auto Parts"
 url: /purvis/garys-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

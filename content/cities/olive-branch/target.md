@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /olive-branch/target/
-shop: Warenhaus
+shop: department store
 ---

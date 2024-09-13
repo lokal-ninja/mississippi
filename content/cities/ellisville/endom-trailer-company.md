@@ -1,5 +1,5 @@
 ---
 title: "Endom Trailer Company"
 url: /ellisville/endom-trailer-company/
-shop: Anhänger
+shop: trailer
 ---

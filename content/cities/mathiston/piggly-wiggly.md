@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /mathiston/piggly-wiggly/
-shop: Supermarkt
+shop: supermarket
 ---

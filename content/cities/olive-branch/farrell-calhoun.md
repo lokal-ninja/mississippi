@@ -1,5 +1,5 @@
 ---
 title: "Farrell-Calhoun"
 url: /olive-branch/farrell-calhoun/
-shop: Farben
+shop: paint
 ---

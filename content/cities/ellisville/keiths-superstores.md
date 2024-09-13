@@ -1,5 +1,5 @@
 ---
 title: "Keith's Superstores"
 url: /ellisville/keiths-superstores/
-shop: Lebensmittel
+shop: convenience
 ---

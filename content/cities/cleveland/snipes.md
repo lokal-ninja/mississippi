@@ -1,5 +1,5 @@
 ---
 title: "Snipes"
 url: /cleveland/snipes/
-shop: Schuhe
+shop: shoes
 ---

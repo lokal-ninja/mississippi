@@ -1,5 +1,5 @@
 ---
 title: "True Value"
 url: /water-valley/true-value/
-shop: Eisenwaren
+shop: hardware
 ---

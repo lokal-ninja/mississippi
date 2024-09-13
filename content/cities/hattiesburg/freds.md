@@ -1,5 +1,5 @@
 ---
 title: "Fred's"
 url: /hattiesburg/freds/
-shop: Kramladen
+shop: variety store
 ---

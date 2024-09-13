@@ -1,5 +1,5 @@
 ---
 title: "Dirt Cheap"
 url: /magee/dirt-cheap/
-shop: Supermarkt
+shop: supermarket
 ---

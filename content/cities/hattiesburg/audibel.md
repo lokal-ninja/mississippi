@@ -1,5 +1,5 @@
 ---
 title: "Audibel"
 url: /hattiesburg/audibel/
-shop: Hörgeräte
+shop: hearing aids
 ---

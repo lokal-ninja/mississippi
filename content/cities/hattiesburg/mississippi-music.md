@@ -1,5 +1,5 @@
 ---
 title: "Mississippi Music"
 url: /hattiesburg/mississippi-music/
-shop: Musik
+shop: music
 ---

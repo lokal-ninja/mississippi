@@ -1,5 +1,5 @@
 ---
 title: "FastMart"
 url: /sandersville/fastmart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /flowood/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

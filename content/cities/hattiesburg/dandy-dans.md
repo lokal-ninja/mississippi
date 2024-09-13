@@ -1,5 +1,5 @@
 ---
 title: "Dandy Dan's"
 url: /hattiesburg/dandy-dans/
-shop: Lebensmittel
+shop: convenience
 ---

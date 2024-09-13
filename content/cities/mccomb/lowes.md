@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /mccomb/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

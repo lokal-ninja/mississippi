@@ -1,5 +1,5 @@
 ---
 title: "Muffler Master"
 url: /tupelo/muffler-master/
-shop: Autowerkstatt
+shop: car repair
 ---

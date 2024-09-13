@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /meridian/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

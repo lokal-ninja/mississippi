@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /hattiesburg/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /gulfport/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

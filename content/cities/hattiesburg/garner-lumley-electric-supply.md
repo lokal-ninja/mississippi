@@ -1,5 +1,5 @@
 ---
 title: "Garner Lumley Electric Supply"
 url: /hattiesburg/garner-lumley-electric-supply/
-shop: Baustoffe
+shop: trade
 ---

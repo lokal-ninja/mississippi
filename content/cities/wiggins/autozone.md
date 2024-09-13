@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /wiggins/autozone/
-shop: Autoteile
+shop: car parts
 ---

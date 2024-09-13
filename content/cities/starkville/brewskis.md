@@ -1,5 +1,5 @@
 ---
 title: "BREWski's"
 url: /starkville/brewskis/
-shop: Fisch
+shop: seafood
 ---

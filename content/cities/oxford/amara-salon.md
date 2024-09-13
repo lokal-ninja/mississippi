@@ -1,5 +1,5 @@
 ---
 title: "Amara Salon"
 url: /oxford/amara-salon/
-shop: Kosmetik
+shop: beauty
 ---

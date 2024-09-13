@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /purvis/autozone/
-shop: Autoteile
+shop: car parts
 ---

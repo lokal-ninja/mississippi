@@ -1,5 +1,5 @@
 ---
 title: "Your Extra Closet"
 url: /oxford/your-extra-closet/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Express Computer Service"
 url: /oxford/express-computer-service/
-shop: Computer
+shop: computer
 ---

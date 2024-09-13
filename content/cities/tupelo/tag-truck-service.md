@@ -1,5 +1,5 @@
 ---
 title: "TAG Truck Service"
 url: /tupelo/tag-truck-service/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /petal/walgreens/
-shop: Drogerie
+shop: chemist
 ---

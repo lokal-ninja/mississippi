@@ -1,5 +1,5 @@
 ---
 title: "Broadway Express"
 url: /hattiesburg/broadway-express/
-shop: Lebensmittel
+shop: convenience
 ---

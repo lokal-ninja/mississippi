@@ -1,5 +1,5 @@
 ---
 title: "Keith's Superstore"
 url: /petal/keiths-superstore/
-shop: Lebensmittel
+shop: convenience
 ---

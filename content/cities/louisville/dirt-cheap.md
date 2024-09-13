@@ -1,5 +1,5 @@
 ---
 title: "Dirt Cheap"
 url: /louisville/dirt-cheap/
-shop: Kramladen
+shop: variety store
 ---

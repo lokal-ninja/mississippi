@@ -1,5 +1,5 @@
 ---
 title: "Belk"
 url: /oxford/belk/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /mccomb/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

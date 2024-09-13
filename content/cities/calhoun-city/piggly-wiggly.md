@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /calhoun-city/piggly-wiggly/
-shop: Supermarkt
+shop: supermarket
 ---

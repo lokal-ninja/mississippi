@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /booneville/piggly-wiggly/
-shop: Supermarkt
+shop: supermarket
 ---

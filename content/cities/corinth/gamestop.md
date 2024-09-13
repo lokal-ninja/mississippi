@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /corinth/gamestop/
-shop: Videospiele
+shop: video games
 ---

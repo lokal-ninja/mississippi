@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /gulfport/michaels/
-shop: Basteln
+shop: craft
 ---

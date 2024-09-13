@@ -1,5 +1,5 @@
 ---
 title: "Lyle's Power Equipment"
 url: /pelahatchie/lyles-power-equipment/
-shop: Platzpflege
+shop: groundskeeping
 ---

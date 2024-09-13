@@ -1,5 +1,5 @@
 ---
 title: "Dirt Cheap"
 url: /starkville/dirt-cheap/
-shop: Kramladen
+shop: variety store
 ---

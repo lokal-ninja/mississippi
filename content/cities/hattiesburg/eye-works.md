@@ -1,5 +1,5 @@
 ---
 title: "Eye Works"
 url: /hattiesburg/eye-works/
-shop: Optiker
+shop: optician
 ---

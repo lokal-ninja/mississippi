@@ -1,5 +1,5 @@
 ---
 title: "The Kloze Klozet"
 url: /wiggins/the-kloze-klozet/
-shop: Kramladen
+shop: variety store
 ---

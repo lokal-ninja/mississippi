@@ -1,5 +1,5 @@
 ---
 title: "Clark's"
 url: /biloxi/clarks-pass-road/
-shop: Lebensmittel
+shop: convenience
 ---

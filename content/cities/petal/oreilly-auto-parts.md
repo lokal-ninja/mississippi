@@ -1,5 +1,5 @@
 ---
 title: "O'Reilly Auto Parts"
 url: /petal/oreilly-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

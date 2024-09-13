@@ -1,5 +1,5 @@
 ---
 title: "Factory Connection"
 url: /cleveland/factory-connection/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wesson Ace Hardware"
 url: /wesson/wesson-ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

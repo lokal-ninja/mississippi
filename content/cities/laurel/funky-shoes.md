@@ -1,5 +1,5 @@
 ---
 title: "Funky Shoes"
 url: /laurel/funky-shoes/
-shop: Schuhe
+shop: shoes
 ---
