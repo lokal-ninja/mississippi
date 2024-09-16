@@ -1,11 +1,11 @@
 id: 1111590093
-type: way
+type: node
 latitude: 33.44635
 longitude: -90.65061
 postcode: "38751"
 city: Indianola
-street: "Front Street Ext"
-housenumber: 407
+street: Front Street Ext
+housenumber: "407"
 phone: ""
 opening_hours: ""
 website: ""

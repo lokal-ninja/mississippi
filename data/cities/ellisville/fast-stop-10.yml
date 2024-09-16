@@ -1,11 +1,11 @@
 id: 655986903
-type: way
+type: node
 latitude: 31.62949
 longitude: -89.18042
 postcode: "39437"
 city: Ellisville
-street: "US 11"
-housenumber: 5185
+street: US 11
+housenumber: "5185"
 phone: ""
 opening_hours: ""
 website: ""

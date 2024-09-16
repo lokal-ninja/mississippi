@@ -1,11 +1,11 @@
 id: 577203868
-type: way
+type: node
 latitude: 33.3677
 longitude: -91.03829
 postcode: "38701"
 city: Greenville
-street: "Martin Luther King Junior Boulevard"
-housenumber: 1886
-phone: "+1 662-335-3525"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ms-greenville/1527"
+street: Martin Luther King Junior Boulevard
+housenumber: "1886"
+phone: +1 662-335-3525
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ms-greenville/1527

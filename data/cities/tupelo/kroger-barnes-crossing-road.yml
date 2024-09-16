@@ -1,11 +1,11 @@
 id: 568001950
-type: way
+type: node
 latitude: 34.31742
 longitude: -88.70382
 postcode: "38804"
 city: Tupelo
-street: "Barnes Crossing Road"
-housenumber: 930
-phone: "+1 662-844-5247"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ms/tupelo/barnes-crossing/025/00447"
+street: Barnes Crossing Road
+housenumber: "930"
+phone: +1 662-844-5247
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ms/tupelo/barnes-crossing/025/00447

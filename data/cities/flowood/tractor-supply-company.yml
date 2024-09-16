@@ -1,11 +1,11 @@
 id: 1052750043
-type: way
+type: node
 latitude: 32.35736
 longitude: -90.01785
 postcode: "39232"
 city: Flowood
-street: "Highway 25"
-housenumber: 5572
-phone: "+1 601-992-7717"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Highway 25
+housenumber: "5572"
+phone: +1 601-992-7717
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

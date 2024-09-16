@@ -1,11 +1,11 @@
 id: 795169193
-type: way
+type: node
 latitude: 32.87674
 longitude: -90.39613
 postcode: "39194"
 city: Yazoo City
-street: "Grand Avenue"
-housenumber: 2129
-phone: "+1 662-673-4033"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3060/yazoo-city-ms/whats-new"
+street: Grand Avenue
+housenumber: "2129"
+phone: +1 662-673-4033
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3060/yazoo-city-ms/whats-new

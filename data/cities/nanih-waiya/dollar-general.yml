@@ -1,11 +1,11 @@
 id: 1310600402
-type: way
+type: node
 latitude: 32.98354
 longitude: -88.91761
 postcode: "39339"
 city: Nanih Waiya
-street: "MS 397-MS 490"
-housenumber: 5575
+street: MS 397-MS 490
+housenumber: "5575"
 phone: "+16624462915"
-opening_hours: "Mo-Su 08:00-22:00"
+opening_hours: Mo-Su 08:00-22:00
 website: ""

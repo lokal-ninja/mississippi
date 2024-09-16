@@ -1,11 +1,11 @@
 id: 291851569
-type: way
+type: node
 latitude: 30.39266
 longitude: -88.99426
 postcode: "39531"
 city: Biloxi
-street: "Court Switzer Sr Drive"
-housenumber: 2681
-phone: "+1 228-385-1046"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1088/biloxi-ms/whats-new"
+street: Court Switzer Sr Drive
+housenumber: "2681"
+phone: +1 228-385-1046
+opening_hours: 24/7
+website: https://www.walmart.com/store/1088/biloxi-ms/whats-new

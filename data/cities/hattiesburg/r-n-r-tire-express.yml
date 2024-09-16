@@ -1,11 +1,11 @@
 id: 314889631
-type: way
+type: node
 latitude: 31.32523
 longitude: -89.3175
 postcode: "39401"
 city: Hattiesburg
-street: "Hardy Street"
-housenumber: 1815
-phone: "+1 (601) 402-9186"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
+street: Hardy Street
+housenumber: "1815"
+phone: +1 (601) 402-9186
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
 website: ""

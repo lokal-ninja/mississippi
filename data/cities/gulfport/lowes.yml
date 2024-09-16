@@ -1,11 +1,11 @@
 id: 166085200
-type: way
+type: node
 latitude: 30.39697
 longitude: -89.08667
 postcode: "39501"
 city: Gulfport
-street: "John Hill Boulevard"
-housenumber: 2151
-phone: "+1 228-867-9000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ms-gulfport/0466"
+street: John Hill Boulevard
+housenumber: "2151"
+phone: +1 228-867-9000
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ms-gulfport/0466

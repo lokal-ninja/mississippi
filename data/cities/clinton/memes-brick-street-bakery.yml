@@ -1,11 +1,11 @@
 id: 394669702
-type: way
+type: node
 latitude: 32.34049
 longitude: -90.33016
 postcode: "39056"
 city: Clinton
-street: "West Leake Street"
-housenumber: 104
-phone: "601-278-0635"
+street: West Leake Street
+housenumber: "104"
+phone: 601-278-0635
 opening_hours: ""
 website: ""

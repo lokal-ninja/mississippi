@@ -1,11 +1,11 @@
 id: 654334663
-type: way
+type: node
 latitude: 31.30824
 longitude: -89.41077
 postcode: "39402"
 city: Hattiesburg
-street: "Old Highway 11"
-housenumber: 5209
-phone: "+1 (601)-264-0606"
-opening_hours: "Su-Th 11:00-14:00; Fr 11:00-14:00, 17:00-21:00; Sa 17:00-21:00"
-website: "http://moviestarrestaurant.com/"
+street: Old Highway 11
+housenumber: "5209"
+phone: +1 (601)-264-0606
+opening_hours: Su-Th 11:00-14:00; Fr 11:00-14:00, 17:00-21:00; Sa 17:00-21:00
+website: http://moviestarrestaurant.com/

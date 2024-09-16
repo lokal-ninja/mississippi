@@ -1,11 +1,11 @@
 id: 653659317
-type: way
+type: node
 latitude: 31.15639
 longitude: -89.39673
 postcode: "39475"
 city: Purvis
-street: "US 11"
-housenumber: 5610
-phone: "+1 (601) 794-8829"
-opening_hours: "Tu-Sa 09:00-18:00"
+street: US 11
+housenumber: "5610"
+phone: +1 (601) 794-8829
+opening_hours: Tu-Sa 09:00-18:00
 website: ""

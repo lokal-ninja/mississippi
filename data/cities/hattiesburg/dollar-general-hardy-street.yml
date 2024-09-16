@@ -1,11 +1,11 @@
 id: 314889634
-type: way
+type: node
 latitude: 31.32524
 longitude: -89.31999
 postcode: "39401"
 city: Hattiesburg
-street: "Hardy Street"
-housenumber: 1909
+street: Hardy Street
+housenumber: "1909"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ms/hattiesburg/1039"
+website: https://www.dollargeneral.com/store-directory/ms/hattiesburg/1039

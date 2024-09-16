@@ -1,11 +1,11 @@
 id: 679909092
-type: way
+type: node
 latitude: 31.89275
 longitude: -88.9886
 postcode: "39439"
 city: Heidelberg
-street: "North Pine Avenue"
-housenumber: 604
-phone: "+1 (601) 787-4511"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 07:00-15:00"
-website: "https://www.napaonline.com/"
+street: North Pine Avenue
+housenumber: "604"
+phone: +1 (601) 787-4511
+opening_hours: Mo-Fr 07:00-17:00; Sa 07:00-15:00
+website: https://www.napaonline.com/

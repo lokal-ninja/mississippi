@@ -1,11 +1,11 @@
 id: 503875731
-type: way
+type: node
 latitude: 33.70623
 longitude: -90.71974
 postcode: "38730"
 city: Boyle
-street: "North Gaines Highway"
-housenumber: 299
+street: North Gaines Highway
+housenumber: "299"
 phone: ""
 opening_hours: ""
 website: ""

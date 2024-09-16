@@ -1,11 +1,11 @@
 id: 925270067
-type: way
+type: node
 latitude: 31.60633
 longitude: -89.21311
 postcode: "39437"
 city: Ellisville
-street: "Clay Street"
-housenumber: 213
+street: Clay Street
+housenumber: "213"
 phone: ""
 opening_hours: ""
 website: ""

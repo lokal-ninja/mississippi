@@ -4,8 +4,8 @@ latitude: 30.45828
 longitude: -89.10251
 postcode: "39503"
 city: Gulfport
-street: "Highway 49"
-housenumber: 12057
+street: Highway 49
+housenumber: "12057"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.foodgiant.com"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.foodgiant.com

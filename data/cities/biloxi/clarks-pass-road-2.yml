@@ -1,11 +1,11 @@
 id: 165995124
-type: way
+type: node
 latitude: 30.40227
 longitude: -88.97602
 postcode: "39531"
 city: Biloxi
-street: "Pass Road"
-housenumber: 2392
+street: Pass Road
+housenumber: "2392"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1272044485
-type: way
+type: node
 latitude: 32.15233
 longitude: -90.13179
 postcode: "39073"
 city: Florence
-street: "North Church Street"
-housenumber: 201
-phone: "+1601-845-2961"
-opening_hours: "Mo-Sa 06:00-22:00; Su 06:00-21:00"
+street: North Church Street
+housenumber: "201"
+phone: +1601-845-2961
+opening_hours: Mo-Sa 06:00-22:00; Su 06:00-21:00
 website: ""

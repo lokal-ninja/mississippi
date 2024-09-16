@@ -1,11 +1,11 @@
 id: 1227058963
-type: way
+type: node
 latitude: 31.69016
 longitude: -89.14688
 postcode: "39440"
 city: Laurel
-street: "US-84"
-housenumber: 124
+street: US-84
+housenumber: "124"
 phone: ""
 opening_hours: ""
 website: ""

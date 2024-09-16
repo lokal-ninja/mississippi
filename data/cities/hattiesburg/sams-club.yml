@@ -1,11 +1,11 @@
 id: 193114817
-type: way
+type: node
 latitude: 31.31891
 longitude: -89.38165
 postcode: "39402"
 city: Hattiesburg
-street: "US 98"
-housenumber: 6080
-phone: "+1 601-261-2171"
-opening_hours: "Su-Mo 10:00-18:00; Tu-Fr 10:00-20:00; Sa 09:00-20:00"
-website: "https://www.samsclub.com/club/hattiesburg-ms-sams-club/6503"
+street: US 98
+housenumber: "6080"
+phone: +1 601-261-2171
+opening_hours: Su-Mo 10:00-18:00; Tu-Fr 10:00-20:00; Sa 09:00-20:00
+website: https://www.samsclub.com/club/hattiesburg-ms-sams-club/6503

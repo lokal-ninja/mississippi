@@ -1,11 +1,11 @@
 id: 1068838914
-type: way
+type: node
 latitude: 31.68953
 longitude: -89.14693
 postcode: "39440"
 city: Laurel
-street: "North 16th Avenue"
-housenumber: 104
-phone: "601 425 0020"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-15:00"
-website: "mississippititleloansinc.com"
+street: North 16th Avenue
+housenumber: "104"
+phone: 601 425 0020
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-15:00
+website: mississippititleloansinc.com

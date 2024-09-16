@@ -1,11 +1,11 @@
 id: 322994063
-type: way
+type: node
 latitude: 34.36199
 longitude: -89.51031
 postcode: "38655"
 city: Oxford
-street: "University Avenue"
-housenumber: 1808
+street: University Avenue
+housenumber: "1808"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1808+university+ave-oxford-ms-38655/id=7757"
+website: https://www.walgreens.com/locator/walgreens-1808+university+ave-oxford-ms-38655/id=7757

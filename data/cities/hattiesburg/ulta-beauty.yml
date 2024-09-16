@@ -4,8 +4,8 @@ latitude: 31.32566
 longitude: -89.37567
 postcode: "39402"
 city: Hattiesburg
-street: "Turtle Creek Drive"
-housenumber: 1000
-phone: "+1 601-296-6970"
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-18:00"
-website: "https://www.ulta.com/stores/hattiesburg-ms-1252"
+street: Turtle Creek Drive
+housenumber: "1000"
+phone: +1 601-296-6970
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-18:00
+website: https://www.ulta.com/stores/hattiesburg-ms-1252

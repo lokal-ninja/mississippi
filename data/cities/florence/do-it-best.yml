@@ -1,11 +1,11 @@
 id: 1272043329
-type: way
+type: node
 latitude: 32.15297
 longitude: -90.13134
 postcode: "39073"
 city: Florence
-street: "South Church Street"
-housenumber: 116
-phone: "(601) 845-2288"
-opening_hours: "Mo-Su 07:00-18:00"
-website: "https://www.doitbest.com/"
+street: South Church Street
+housenumber: "116"
+phone: (601) 845-2288
+opening_hours: Mo-Su 07:00-18:00
+website: https://www.doitbest.com/

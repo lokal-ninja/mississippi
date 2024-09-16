@@ -1,11 +1,11 @@
 id: 1235141886
-type: way
+type: node
 latitude: 34.00695
 longitude: -90.06126
 postcode: "38921"
 city: Charleston
-street: "Main Street"
-housenumber: 310
+street: Main Street
+housenumber: "310"
 phone: ""
 opening_hours: ""
 website: ""

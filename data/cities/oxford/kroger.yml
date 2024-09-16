@@ -4,8 +4,8 @@ latitude: 34.36329
 longitude: -89.5038
 postcode: "38655"
 city: Oxford
-street: "University Avenue"
-housenumber: 2013
-phone: "+1 662-236-9956"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ms/oxford/oxford/025/00473"
+street: University Avenue
+housenumber: "2013"
+phone: +1 662-236-9956
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ms/oxford/oxford/025/00473

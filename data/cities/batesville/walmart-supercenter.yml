@@ -1,11 +1,11 @@
 id: 1311905654
-type: way
+type: node
 latitude: 34.30773
 longitude: -89.91728
 postcode: "38606"
 city: Batesville
-street: "House-Carlson Drive"
-housenumber: 205
-phone: "+1 662-563-3100"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1468/batesville-ms/whats-new"
+street: House-Carlson Drive
+housenumber: "205"
+phone: +1 662-563-3100
+opening_hours: 24/7
+website: https://www.walmart.com/store/1468/batesville-ms/whats-new

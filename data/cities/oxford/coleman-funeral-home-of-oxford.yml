@@ -1,11 +1,11 @@
 id: 599466608
-type: way
+type: node
 latitude: 34.29878
 longitude: -89.51953
 postcode: "38655"
 city: Oxford
-street: "Commerce Parkway"
-housenumber: 601
+street: Commerce Parkway
+housenumber: "601"
 phone: ""
 opening_hours: ""
 website: ""

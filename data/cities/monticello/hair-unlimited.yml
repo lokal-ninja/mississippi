@@ -1,11 +1,11 @@
 id: 361089779
-type: way
+type: node
 latitude: 31.55541
 longitude: -90.10846
 postcode: "39654"
 city: Monticello
-street: "Brookhaven Street"
-housenumber: 224
+street: Brookhaven Street
+housenumber: "224"
 phone: ""
 opening_hours: ""
 website: ""

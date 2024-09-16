@@ -1,11 +1,11 @@
 id: 598600021
-type: way
+type: node
 latitude: 34.38402
 longitude: -89.49034
 postcode: "38655"
 city: Oxford
-street: "Mississippi Highway 30"
-housenumber: 
+street: Mississippi Highway 30
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

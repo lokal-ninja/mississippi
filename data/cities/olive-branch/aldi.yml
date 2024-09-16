@@ -1,11 +1,11 @@
 id: 934863337
-type: way
+type: node
 latitude: 34.96288
 longitude: -89.87291
 postcode: "38654"
 city: Olive Branch
-street: "Goodman Road"
-housenumber: 6626
-phone: "+1 833-470-7073"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/ms/olive-branch/6626-goodman-rd"
+street: Goodman Road
+housenumber: "6626"
+phone: +1 833-470-7073
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/ms/olive-branch/6626-goodman-rd

@@ -1,11 +1,11 @@
 id: 599915089
-type: way
+type: node
 latitude: 34.3689
 longitude: -89.51925
 postcode: "38655"
 city: Oxford
-street: "Jefferson Avenue"
-housenumber: 1103
+street: Jefferson Avenue
+housenumber: "1103"
 phone: ""
 opening_hours: ""
 website: ""

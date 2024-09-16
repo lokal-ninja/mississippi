@@ -1,11 +1,11 @@
 id: 621264012
-type: way
+type: node
 latitude: 31.35101
 longitude: -89.20035
 postcode: "39465"
 city: Petal
-street: "MS 42"
-housenumber: 1199
-phone: "+1 (601) 545-7311"
+street: MS 42
+housenumber: "1199"
+phone: +1 (601) 545-7311
 opening_hours: ""
 website: ""

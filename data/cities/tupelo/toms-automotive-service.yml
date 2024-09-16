@@ -1,11 +1,11 @@
 id: 380272005
-type: way
+type: node
 latitude: 34.25514
 longitude: -88.7065
 postcode: "38804"
 city: Tupelo
-street: "Magazine Street"
-housenumber: 317
+street: Magazine Street
+housenumber: "317"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:30"
+opening_hours: Mo-Fr 07:30-17:30
 website: ""

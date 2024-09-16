@@ -1,11 +1,11 @@
 id: 1167517184
-type: way
+type: node
 latitude: 31.57712
 longitude: -91.30872
 postcode: "39120"
 city: Natchez
-street: "Highway 61 North"
-housenumber: 780
-phone: "+1 601-442-0354"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Highway 61 North
+housenumber: "780"
+phone: +1 601-442-0354
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

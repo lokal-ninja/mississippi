@@ -1,11 +1,11 @@
 id: 261050106
-type: way
+type: node
 latitude: 32.4764
 longitude: -90.14515
 postcode: "39110"
 city: Madison
-street: "Colony Way"
-housenumber: 211
-phone: "+1 601-856-4660"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/madison-ms/ms/madison/39110/2912"
+street: Colony Way
+housenumber: "211"
+phone: +1 601-856-4660
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/madison-ms/ms/madison/39110/2912

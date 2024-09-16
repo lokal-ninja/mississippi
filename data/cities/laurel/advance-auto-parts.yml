@@ -1,11 +1,11 @@
 id: 1068839181
-type: way
+type: node
 latitude: 31.69036
 longitude: -89.14717
 postcode: "39440"
 city: Laurel
-street: "North 16th Avenue"
-housenumber: 132
-phone: "601 428 8270"
+street: North 16th Avenue
+housenumber: "132"
+phone: 601 428 8270
 opening_hours: ""
-website: "https://stores.advanceautoparts.com"
+website: https://stores.advanceautoparts.com

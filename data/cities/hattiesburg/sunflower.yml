@@ -1,11 +1,11 @@
 id: 878432767
-type: way
+type: node
 latitude: 31.32454
 longitude: -89.31958
 postcode: "39401"
 city: Hattiesburg
-street: "Hardy Street"
-housenumber: 1900
-phone: "+1 (601) 545-1741"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "http://www.sunflowerms.com/"
+street: Hardy Street
+housenumber: "1900"
+phone: +1 (601) 545-1741
+opening_hours: Mo-Su 07:00-21:00
+website: http://www.sunflowerms.com/

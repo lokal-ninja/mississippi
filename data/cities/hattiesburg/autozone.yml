@@ -1,11 +1,11 @@
 id: 355560109
-type: way
+type: node
 latitude: 31.31642
 longitude: -89.30726
 postcode: "39401"
 city: Hattiesburg
-street: "Broadway Drive"
-housenumber: 305
+street: Broadway Drive
+housenumber: "305"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ms/hattiesburg/305-broadway-dr.html"
+website: https://www.autozone.com/locations/ms/hattiesburg/305-broadway-dr.html

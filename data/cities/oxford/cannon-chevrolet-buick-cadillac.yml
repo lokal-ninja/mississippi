@@ -1,11 +1,11 @@
 id: 599954375
-type: way
+type: node
 latitude: 34.3619
 longitude: -89.57916
 postcode: "38655"
 city: Oxford
-street: "Thacker Loop"
-housenumber: 100
+street: Thacker Loop
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1238689263
-type: way
+type: node
 latitude: 32.29177
 longitude: -90.27181
 postcode: "39204"
 city: Jackson
-street: "Greenway Drive"
-housenumber: 2250
-phone: "+1 601-923-4448"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ms-jackson/2369"
+street: Greenway Drive
+housenumber: "2250"
+phone: +1 601-923-4448
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ms-jackson/2369

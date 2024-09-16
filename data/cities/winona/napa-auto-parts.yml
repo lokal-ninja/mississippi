@@ -1,11 +1,11 @@
 id: 363387573
-type: way
+type: node
 latitude: 33.49026
 longitude: -89.73635
 postcode: ""
 city: Winona
-street: "North Applegate Street"
-housenumber: 409
-phone: "662-283-1141"
-opening_hours: "06:00-17:30"
+street: North Applegate Street
+housenumber: "409"
+phone: 662-283-1141
+opening_hours: 06:00-17:30
 website: ""

@@ -1,11 +1,11 @@
 id: 355564131
-type: way
+type: node
 latitude: 31.55642
 longitude: -90.11327
 postcode: ""
 city: monticello
-street: "West Broad Street"
-housenumber: 713
+street: West Broad Street
+housenumber: "713"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
+opening_hours: Mo-Su 08:00-22:00
 website: ""

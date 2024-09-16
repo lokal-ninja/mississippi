@@ -1,11 +1,11 @@
 id: 316997508
-type: way
+type: node
 latitude: 31.32516
 longitude: -89.33588
 postcode: "39401"
 city: Hattiesburg
-street: "Hardy Street"
-housenumber: 3100
+street: Hardy Street
+housenumber: "3100"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

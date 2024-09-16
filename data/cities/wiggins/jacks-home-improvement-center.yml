@@ -1,11 +1,11 @@
 id: 998551986
-type: way
+type: node
 latitude: 30.84829
 longitude: -89.14197
 postcode: "39577"
 city: Wiggins
-street: "Hall Street"
-housenumber: 747
+street: Hall Street
+housenumber: "747"
 phone: ""
 opening_hours: ""
 website: ""

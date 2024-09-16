@@ -1,11 +1,11 @@
 id: 996089859
-type: way
+type: node
 latitude: 33.45384
 longitude: -88.81682
 postcode: "39759"
 city: Starkville
-street: "MS 12"
-housenumber: 121
-phone: "+1 662-323-5814"
+street: MS 12
+housenumber: "121"
+phone: +1 662-323-5814
 opening_hours: ""
 website: ""

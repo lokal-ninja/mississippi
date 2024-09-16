@@ -1,11 +1,11 @@
 id: 907930589
-type: way
+type: node
 latitude: 32.31206
 longitude: -90.17435
 postcode: "39202"
 city: Jackson
-street: "East Fortification Street"
-housenumber: 921
-phone: "+1-601-983-5287"
-opening_hours: "Mo-Sa 10:00-22:00"
-website: "https://www.katswine.com/"
+street: East Fortification Street
+housenumber: "921"
+phone: +1-601-983-5287
+opening_hours: Mo-Sa 10:00-22:00
+website: https://www.katswine.com/

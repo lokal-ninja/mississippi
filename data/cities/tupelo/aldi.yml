@@ -1,11 +1,11 @@
 id: 1098119164
-type: way
+type: node
 latitude: 34.31341
 longitude: -88.70592
 postcode: "38804"
 city: Tupelo
-street: "North Gloster Street"
-housenumber: 3990
-phone: "+1 833-470-7061"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/ms/tupelo/3990-n-gloster-st"
+street: North Gloster Street
+housenumber: "3990"
+phone: +1 833-470-7061
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/ms/tupelo/3990-n-gloster-st

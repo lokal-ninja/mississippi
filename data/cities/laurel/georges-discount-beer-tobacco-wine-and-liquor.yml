@@ -1,11 +1,11 @@
 id: 1226226892
-type: way
+type: node
 latitude: 31.69251
 longitude: -89.14588
 postcode: "39440"
 city: Laurel
-street: "North 16th Avenue"
-housenumber: 307
-phone: "601 428 1312"
-opening_hours: "Mo-Sa 10:00-20:00"
+street: North 16th Avenue
+housenumber: "307"
+phone: 601 428 1312
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

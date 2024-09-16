@@ -1,11 +1,11 @@
 id: 599496681
-type: way
+type: node
 latitude: 34.36349
 longitude: -89.51627
 postcode: "38655"
 city: Oxford
-street: "University Avenue"
-housenumber: 1434
+street: University Avenue
+housenumber: "1434"
 phone: ""
 opening_hours: ""
 website: ""

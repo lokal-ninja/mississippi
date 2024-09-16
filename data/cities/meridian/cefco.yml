@@ -1,11 +1,11 @@
 id: 461179476
-type: way
+type: node
 latitude: 32.35133
 longitude: -88.69016
 postcode: "39301"
 city: Meridian
-street: "Roebuck Drive"
-housenumber: 1303
+street: Roebuck Drive
+housenumber: "1303"
 phone: ""
-opening_hours: "24/7"
-website: "https://cefcostores.com/"
+opening_hours: 24/7
+website: https://cefcostores.com/

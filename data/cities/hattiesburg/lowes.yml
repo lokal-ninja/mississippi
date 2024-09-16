@@ -1,11 +1,11 @@
 id: 223784089
-type: way
+type: node
 latitude: 31.32051
 longitude: -89.37546
 postcode: "39402"
 city: Hattiesburg
-street: "Hardy Street"
-housenumber: 6004
-phone: "+1 601-261-3008"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ms-hattiesburg/0537"
+street: Hardy Street
+housenumber: "6004"
+phone: +1 601-261-3008
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ms-hattiesburg/0537

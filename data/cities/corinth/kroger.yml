@@ -1,11 +1,11 @@
 id: 595960080
-type: way
+type: node
 latitude: 34.92843
 longitude: -88.52525
 postcode: "38834"
 city: Corinth
-street: "Highway 72 West"
-housenumber: 104
-phone: "+1 662-287-8155"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ms/corinth/corinth/025/00454"
+street: Highway 72 West
+housenumber: "104"
+phone: +1 662-287-8155
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ms/corinth/corinth/025/00454

@@ -1,11 +1,11 @@
 id: 318528826
-type: way
+type: node
 latitude: 31.30393
 longitude: -89.32122
 postcode: "39401"
 city: Hattiesburg
-street: "Broadway Drive"
-housenumber: 1501
+street: Broadway Drive
+housenumber: "1501"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

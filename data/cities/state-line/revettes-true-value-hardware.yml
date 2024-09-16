@@ -1,11 +1,11 @@
 id: 625869649
-type: way
+type: node
 latitude: 31.43869
 longitude: -88.47478
 postcode: "39362"
 city: State Line
-street: "Main Street"
-housenumber: 243
-phone: "+1 601-848-7902"
-opening_hours: "Mo-Sa 08:00-17:00"
-website: "https://ww3.truevalue.com/revettes/Home.aspx"
+street: Main Street
+housenumber: "243"
+phone: +1 601-848-7902
+opening_hours: Mo-Sa 08:00-17:00
+website: https://ww3.truevalue.com/revettes/Home.aspx

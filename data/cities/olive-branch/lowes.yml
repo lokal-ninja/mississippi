@@ -1,11 +1,11 @@
 id: 640488136
-type: way
+type: node
 latitude: 34.96798
 longitude: -89.84231
 postcode: "38654"
 city: Olive Branch
-street: "Camp Creek Boulevard"
-housenumber: 8370
-phone: "+1 662-890-9720"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ms-olive-branch/1988"
+street: Camp Creek Boulevard
+housenumber: "8370"
+phone: +1 662-890-9720
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ms-olive-branch/1988

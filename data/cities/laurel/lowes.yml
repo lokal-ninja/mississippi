@@ -1,11 +1,11 @@
 id: 553850195
-type: way
+type: node
 latitude: 31.70712
 longitude: -89.15091
 postcode: "39440"
 city: Laurel
-street: "MS-15 North"
-housenumber: 1490
-phone: "+1 601-399-4527"
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-19:00"
-website: "https://www.lowes.com/store/ms-laurel/2563"
+street: MS-15 North
+housenumber: "1490"
+phone: +1 601-399-4527
+opening_hours: Mo-Sa 07:00-21:00; Su 08:00-19:00
+website: https://www.lowes.com/store/ms-laurel/2563

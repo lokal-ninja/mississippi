@@ -1,11 +1,11 @@
 id: 165920548
-type: way
+type: node
 latitude: 30.39392
 longitude: -88.89089
 postcode: ""
 city: Biloxi
-street: "Beach Boulevard"
-housenumber: 856
+street: Beach Boulevard
+housenumber: "856"
 phone: ""
 opening_hours: ""
 website: ""

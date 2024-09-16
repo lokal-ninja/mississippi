@@ -1,11 +1,11 @@
 id: 1012301194
-type: way
+type: node
 latitude: 31.18847
 longitude: -89.28774
 postcode: "39401"
 city: Hattiesburg
-street: "Elks Lake Road"
-housenumber: 1250
-phone: "+1 (601) 544-6464"
-opening_hours: "Mo-Su 06:30-20:00"
-website: "https://www.dixiemini.com/"
+street: Elks Lake Road
+housenumber: "1250"
+phone: +1 (601) 544-6464
+opening_hours: Mo-Su 06:30-20:00
+website: https://www.dixiemini.com/

@@ -1,11 +1,11 @@
 id: 903433904
-type: way
+type: node
 latitude: 33.60296
 longitude: -90.76437
 postcode: "38773"
 city: Shaw
-street: "North Highway 61"
-housenumber: 104
+street: North Highway 61
+housenumber: "104"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ms/shaw/11588"
+website: https://www.dollargeneral.com/store-directory/ms/shaw/11588

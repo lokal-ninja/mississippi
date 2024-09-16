@@ -1,11 +1,11 @@
 id: 1068838184
-type: way
+type: node
 latitude: 31.69279
 longitude: -89.14728
 postcode: "39440"
 city: Laurel
-street: "North 16th Avenue"
-housenumber: 330
-phone: "601 342 2880"
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "https://thegoldminepawnandgun.com/"
+street: North 16th Avenue
+housenumber: "330"
+phone: 601 342 2880
+opening_hours: Mo-Sa 09:00-17:00
+website: https://thegoldminepawnandgun.com/

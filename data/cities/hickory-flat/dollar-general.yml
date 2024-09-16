@@ -1,11 +1,11 @@
 id: 1077522506
-type: way
+type: node
 latitude: 34.61837
 longitude: -89.18494
 postcode: "38633"
 city: Hickory Flat
-street: "State Highway 5"
-housenumber: 39
+street: State Highway 5
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/ms/hickory-flat/12443"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/ms/hickory-flat/12443

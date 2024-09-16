@@ -1,11 +1,11 @@
 id: 270372147
-type: way
+type: node
 latitude: 34.36452
 longitude: -89.55671
 postcode: "38655"
 city: Oxford
-street: "Jackson Avenue West"
-housenumber: 1903
-phone: "+1 662-236-7889"
-opening_hours: "Mo-Sa 05:00-01:00; Su 06:00-01:00"
+street: Jackson Avenue West
+housenumber: "1903"
+phone: +1 662-236-7889
+opening_hours: Mo-Sa 05:00-01:00; Su 06:00-01:00
 website: ""

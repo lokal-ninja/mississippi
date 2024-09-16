@@ -1,11 +1,11 @@
 id: 664271127
-type: way
+type: node
 latitude: 31.34631
 longitude: -89.25529
 postcode: "39465"
 city: Petal
-street: "East Central Avenue"
-housenumber: 416
-phone: "+1 (601) 336-7238"
+street: East Central Avenue
+housenumber: "416"
+phone: +1 (601) 336-7238
 opening_hours: ""
-website: "https://www.valero.com/"
+website: https://www.valero.com/

@@ -1,11 +1,11 @@
 id: 1311789920
-type: way
+type: node
 latitude: 34.28611
 longitude: -89.0209
 postcode: "38863"
 city: Pontotoc
-street: "McCord Road"
-housenumber: 100
-phone: "+1 662-489-7451"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/164/pontotoc-ms/whats-new"
+street: McCord Road
+housenumber: "100"
+phone: +1 662-489-7451
+opening_hours: 24/7
+website: https://www.walmart.com/store/164/pontotoc-ms/whats-new

@@ -1,11 +1,11 @@
 id: 326999660
-type: way
+type: node
 latitude: 31.55897
 longitude: -90.12156
 postcode: "39654"
 city: Monticello
-street: "West Broad Street"
-housenumber: 1509
+street: West Broad Street
+housenumber: "1509"
 phone: ""
 opening_hours: ""
 website: ""

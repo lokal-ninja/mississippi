@@ -1,11 +1,11 @@
 id: 1268890375
-type: way
+type: node
 latitude: 33.7407
 longitude: -90.71549
 postcode: "38732"
 city: Cleveland
-street: "South Davis Avenue"
-housenumber: 303
+street: South Davis Avenue
+housenumber: "303"
 phone: ""
 opening_hours: ""
 website: ""

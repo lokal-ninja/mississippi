@@ -4,8 +4,8 @@ latitude: 34.36344
 longitude: -89.51738
 postcode: "38655"
 city: Oxford
-street: "University Avenue"
-housenumber: 1400
-phone: "+1 662-234-3232"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 12:00-17:00"
+street: University Avenue
+housenumber: "1400"
+phone: +1 662-234-3232
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 12:00-17:00
 website: ""

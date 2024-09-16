@@ -1,11 +1,11 @@
 id: 1110838244
-type: way
+type: node
 latitude: 33.4578
 longitude: -90.64886
 postcode: "38751"
 city: Indianola
-street: "US Highway 82 E"
-housenumber: 144
+street: US Highway 82 E
+housenumber: "144"
 phone: ""
 opening_hours: ""
 website: ""

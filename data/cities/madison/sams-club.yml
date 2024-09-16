@@ -1,11 +1,11 @@
 id: 908956862
-type: way
+type: node
 latitude: 32.45979
 longitude: -90.14081
 postcode: "39110"
 city: Madison
-street: "Grandview Boulevard"
-housenumber: 257
-phone: "+1 601-977-0139"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/madison-ms-sams-club/8271"
+street: Grandview Boulevard
+housenumber: "257"
+phone: +1 601-977-0139
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/madison-ms-sams-club/8271

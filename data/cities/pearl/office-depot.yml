@@ -1,11 +1,11 @@
 id: 477978947
-type: way
+type: node
 latitude: 32.28467
 longitude: -90.04879
 postcode: "39208"
 city: Pearl
-street: "Highway 80 East"
-housenumber: 5450
-phone: "+1 601-933-1716"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/ms/pearl/office-depot-2121"
+street: Highway 80 East
+housenumber: "5450"
+phone: +1 601-933-1716
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/ms/pearl/office-depot-2121

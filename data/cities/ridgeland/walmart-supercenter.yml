@@ -1,11 +1,11 @@
 id: 759889474
-type: way
+type: node
 latitude: 32.40226
 longitude: -90.135
 postcode: "39157"
 city: Ridgeland
-street: "South Wheatley Street"
-housenumber: 815
-phone: "+1 601-956-2717"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/875/ridgeland-ms/whats-new"
+street: South Wheatley Street
+housenumber: "815"
+phone: +1 601-956-2717
+opening_hours: 24/7
+website: https://www.walmart.com/store/875/ridgeland-ms/whats-new

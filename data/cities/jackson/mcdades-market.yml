@@ -1,11 +1,11 @@
 id: 269473862
-type: way
+type: node
 latitude: 32.3355
 longitude: -90.17517
 postcode: "39216"
 city: Jackson
-street: "Duling Avenue"
-housenumber: 653
+street: Duling Avenue
+housenumber: "653"
 phone: ""
 opening_hours: ""
 website: ""

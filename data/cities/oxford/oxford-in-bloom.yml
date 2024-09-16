@@ -1,11 +1,11 @@
 id: 599046745
-type: way
+type: node
 latitude: 34.35553
 longitude: -89.52159
 postcode: "38655"
 city: Oxford
-street: "South Lamar Boulevard"
-housenumber: 1446
+street: South Lamar Boulevard
+housenumber: "1446"
 phone: ""
 opening_hours: ""
 website: ""

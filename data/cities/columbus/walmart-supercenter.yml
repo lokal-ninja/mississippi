@@ -1,11 +1,11 @@
 id: 89167984
-type: way
+type: node
 latitude: 33.51942
 longitude: -88.4399
 postcode: "39705"
 city: Columbus
-street: "Highway 45 North"
-housenumber: 1913
-phone: "+1 662-329-4810"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/495/columbus-ms/whats-new"
+street: Highway 45 North
+housenumber: "1913"
+phone: +1 662-329-4810
+opening_hours: 24/7
+website: https://www.walmart.com/store/495/columbus-ms/whats-new

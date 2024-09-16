@@ -1,11 +1,11 @@
 id: 596689189
-type: way
+type: node
 latitude: 34.3466
 longitude: -89.54406
 postcode: "38655"
 city: Oxford
-street: "Old Taylor Road"
-housenumber: 2500
+street: Old Taylor Road
+housenumber: "2500"
 phone: ""
 opening_hours: ""
 website: ""

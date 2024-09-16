@@ -4,8 +4,8 @@ latitude: 31.30433
 longitude: -89.32926
 postcode: "39402"
 city: Hattiesburg
-street: "Lincoln Road"
-housenumber: 2525
-phone: "+1 (601) 268-1113"
-opening_hours: "Tu 10:00-18:00; We 10:00-16:45; Th-Fr 10:00-18:00; Sa 10:00-15:00"
+street: Lincoln Road
+housenumber: "2525"
+phone: +1 (601) 268-1113
+opening_hours: Tu 10:00-18:00; We 10:00-16:45; Th-Fr 10:00-18:00; Sa 10:00-15:00
 website: ""

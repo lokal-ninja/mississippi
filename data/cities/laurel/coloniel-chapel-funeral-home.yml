@@ -1,11 +1,11 @@
 id: 1072809258
-type: way
+type: node
 latitude: 31.69262
 longitude: -89.20732
 postcode: "39441"
 city: Laurel
-street: "Indian Springs Road"
-housenumber: 4593
-phone: "+1 601 649 3342"
+street: Indian Springs Road
+housenumber: "4593"
+phone: +1 601 649 3342
 opening_hours: ""
-website: "https://www.colonialchapellaurel.com"
+website: https://www.colonialchapellaurel.com

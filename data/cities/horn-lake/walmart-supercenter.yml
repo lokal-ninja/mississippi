@@ -1,11 +1,11 @@
 id: 642114708
-type: way
+type: node
 latitude: 34.96501
 longitude: -90.06404
 postcode: "38637"
 city: Horn Lake
-street: "Goodman Road West"
-housenumber: 4150
-phone: "+1 662-253-6184"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/6964/horn-lake-ms/whats-new"
+street: Goodman Road West
+housenumber: "4150"
+phone: +1 662-253-6184
+opening_hours: 24/7
+website: https://www.walmart.com/store/6964/horn-lake-ms/whats-new

@@ -1,11 +1,11 @@
 id: 339825070
-type: way
+type: node
 latitude: 31.24869
 longitude: -89.27666
 postcode: "39401"
 city: Hattiesburg
-street: "US 49"
-housenumber: 4878
+street: US 49
+housenumber: "4878"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

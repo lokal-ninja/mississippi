@@ -4,8 +4,8 @@ latitude: 32.46499
 longitude: -90.13652
 postcode: "39110"
 city: Madison
-street: "Grand View Boulevard"
-housenumber: 175
-phone: "+1 601-607-1503"
-opening_hours: "Mo 10:00-19:00; Tu-Sa 10:00-21:00; Su 11:00-20:00"
-website: "https://stores.bestbuy.com/ms/madison/175-grandview-blvd-1519.html"
+street: Grand View Boulevard
+housenumber: "175"
+phone: +1 601-607-1503
+opening_hours: Mo 10:00-19:00; Tu-Sa 10:00-21:00; Su 11:00-20:00
+website: https://stores.bestbuy.com/ms/madison/175-grandview-blvd-1519.html

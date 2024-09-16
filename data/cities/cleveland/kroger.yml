@@ -1,11 +1,11 @@
 id: 111863769
-type: way
+type: node
 latitude: 33.75206
 longitude: -90.71417
 postcode: "38732"
 city: Cleveland
-street: "North Davis Avenue"
-housenumber: 602
-phone: "+1 662-843-0835"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ms/cleveland/cleveland/025/00370"
+street: North Davis Avenue
+housenumber: "602"
+phone: +1 662-843-0835
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ms/cleveland/cleveland/025/00370

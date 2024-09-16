@@ -1,11 +1,11 @@
 id: 1271257232
-type: way
+type: node
 latitude: 33.7634
 longitude: -90.71474
 postcode: "38732"
 city: Cleveland
-street: "North Davis Avenue"
-housenumber: 904
+street: North Davis Avenue
+housenumber: "904"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 599963443
-type: way
+type: node
 latitude: 34.49069
 longitude: -89.02953
 postcode: "38652"
 city: New Albany
-street: "Park Plaza Drive"
-housenumber: 500
-phone: "+1 662-538-7250"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ms-new-albany/3041"
+street: Park Plaza Drive
+housenumber: "500"
+phone: +1 662-538-7250
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ms-new-albany/3041

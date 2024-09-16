@@ -1,11 +1,11 @@
 id: 1130670551
-type: way
+type: node
 latitude: 34.62997
 longitude: -89.97148
 postcode: "38668"
 city: Senatobia
-street: "Highway 51 North"
-housenumber: 5219
-phone: "+1 662-562-6202"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/155/senatobia-ms/whats-new"
+street: Highway 51 North
+housenumber: "5219"
+phone: +1 662-562-6202
+opening_hours: 24/7
+website: https://www.walmart.com/store/155/senatobia-ms/whats-new

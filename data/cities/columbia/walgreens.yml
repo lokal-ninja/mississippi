@@ -1,11 +1,11 @@
 id: 1017731712
-type: way
+type: node
 latitude: 31.24143
 longitude: -89.81018
 postcode: "39429"
 city: Columbia
-street: "Highway 98 Bypass"
-housenumber: 1028
+street: Highway 98 Bypass
+housenumber: "1028"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1028+highway+98+byp-columbia-ms-39429/id=13609"
+website: https://www.walgreens.com/locator/walgreens-1028+highway+98+byp-columbia-ms-39429/id=13609

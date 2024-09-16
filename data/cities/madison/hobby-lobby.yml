@@ -1,11 +1,11 @@
 id: 1235198350
-type: way
+type: node
 latitude: 32.46505
 longitude: -90.12552
 postcode: "39110"
 city: Madison
-street: "Crawford Farms Boulevard"
-housenumber: 190
+street: Crawford Farms Boulevard
+housenumber: "190"
 phone: ""
 opening_hours: ""
 website: ""

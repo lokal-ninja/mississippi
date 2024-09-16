@@ -1,11 +1,11 @@
 id: 445409331
-type: way
+type: node
 latitude: 32.35571
 longitude: -90.01438
 postcode: "39232"
 city: Flowood
-street: "Friendly and Fresh Drive"
-housenumber: 143
-phone: "+1 601-992-6873"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ms/flowood/flowood-east/025/00497"
+street: Friendly and Fresh Drive
+housenumber: "143"
+phone: +1 601-992-6873
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ms/flowood/flowood-east/025/00497

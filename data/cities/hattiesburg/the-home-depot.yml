@@ -1,11 +1,11 @@
 id: 266908839
-type: way
+type: node
 latitude: 31.32202
 longitude: -89.3515
 postcode: "39402"
 city: Hattiesburg
-street: "O'Ferral Street"
-housenumber: 4100
-phone: "+1 601-296-1098"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/hattiesburg/ms/hattiesburg/39402/2905"
+street: O'Ferral Street
+housenumber: "4100"
+phone: +1 601-296-1098
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/hattiesburg/ms/hattiesburg/39402/2905

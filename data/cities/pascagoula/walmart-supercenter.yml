@@ -1,11 +1,11 @@
 id: 139198227
-type: way
+type: node
 latitude: 30.38744
 longitude: -88.5184
 postcode: "39581"
 city: Pascagoula
-street: "Denny Avenue"
-housenumber: 4253
-phone: "+1 228-762-9662"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1066/pascagoula-ms/whats-new"
+street: Denny Avenue
+housenumber: "4253"
+phone: +1 228-762-9662
+opening_hours: 24/7
+website: https://www.walmart.com/store/1066/pascagoula-ms/whats-new

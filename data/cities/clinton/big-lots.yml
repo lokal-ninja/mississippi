@@ -4,8 +4,8 @@ latitude: 32.3335
 longitude: -90.31285
 postcode: "39056"
 city: Clinton
-street: "Clinton Boulevard"
-housenumber: 200
-phone: "+1 601-925-5830"
-opening_hours: "Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/ms/clinton/200-clinton-blvd"
+street: Clinton Boulevard
+housenumber: "200"
+phone: +1 601-925-5830
+opening_hours: Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/ms/clinton/200-clinton-blvd

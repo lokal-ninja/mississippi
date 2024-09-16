@@ -1,11 +1,11 @@
 id: 908559972
-type: way
+type: node
 latitude: 30.84344
 longitude: -89.14445
 postcode: "39577"
 city: Wiggins
-street: "East Frontage Drive"
-housenumber: 1097
+street: East Frontage Drive
+housenumber: "1097"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.cspire.com/cms/stores/200113/Wiggins/"
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.cspire.com/cms/stores/200113/Wiggins/

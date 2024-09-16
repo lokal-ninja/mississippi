@@ -1,11 +1,11 @@
 id: 165890583
-type: way
+type: node
 latitude: 30.4475
 longitude: -88.93123
 postcode: "39532"
 city: Biloxi
-street: "Monroe Boulevard"
-housenumber: 1680
-phone: "+1 228-354-8872"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/biloxi/ms/biloxi/39532/2910"
+street: Monroe Boulevard
+housenumber: "1680"
+phone: +1 228-354-8872
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/biloxi/ms/biloxi/39532/2910

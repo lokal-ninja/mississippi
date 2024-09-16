@@ -1,11 +1,11 @@
 id: 625869645
-type: way
+type: node
 latitude: 31.43483
 longitude: -88.4726
 postcode: "39362"
 city: State Line
-street: "Saint Peter Street"
-housenumber: 279
-phone: "+1 (601) 848-7808"
-opening_hours: "Mo-Th 05:00-22:00; Fr-Sa 06:00-23:00; Su 06:00-22:00"
+street: Saint Peter Street
+housenumber: "279"
+phone: +1 (601) 848-7808
+opening_hours: Mo-Th 05:00-22:00; Fr-Sa 06:00-23:00; Su 06:00-22:00
 website: ""

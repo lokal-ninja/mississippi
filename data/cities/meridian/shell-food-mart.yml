@@ -1,11 +1,11 @@
 id: 385178821
-type: way
+type: node
 latitude: 32.34764
 longitude: -88.73663
 postcode: "39307"
 city: Meridian
-street: "US 11"
-housenumber: 1600
+street: US 11
+housenumber: "1600"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

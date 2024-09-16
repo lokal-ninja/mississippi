@@ -1,11 +1,11 @@
 id: 660698516
-type: way
+type: node
 latitude: 30.45714
 longitude: -88.90332
 postcode: "39540"
 city: Diberville
-street: "Promenade Parkway"
-housenumber: 3930
-phone: "+1 228-396-9741"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/ms/diberville/office-depot-3230"
+street: Promenade Parkway
+housenumber: "3930"
+phone: +1 228-396-9741
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/ms/diberville/office-depot-3230

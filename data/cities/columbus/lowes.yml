@@ -1,11 +1,11 @@
 id: 189538926
-type: way
+type: node
 latitude: 33.52113
 longitude: -88.41344
 postcode: "39705"
 city: Columbus
-street: "Woodmont Drive"
-housenumber: 2301
-phone: "+1 662-240-0158"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ms-columbus/1166"
+street: Woodmont Drive
+housenumber: "2301"
+phone: +1 662-240-0158
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ms-columbus/1166

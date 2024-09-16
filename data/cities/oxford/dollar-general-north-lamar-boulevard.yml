@@ -1,11 +1,11 @@
 id: 283027871
-type: way
+type: node
 latitude: 34.37788
 longitude: -89.51214
 postcode: "38655"
 city: Oxford
-street: "North Lamar Boulevard"
-housenumber: 
+street: North Lamar Boulevard
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ms/oxford/9326"
+website: https://www.dollargeneral.com/store-directory/ms/oxford/9326

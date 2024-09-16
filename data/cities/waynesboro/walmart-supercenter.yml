@@ -1,11 +1,11 @@
 id: 1080059773
-type: way
+type: node
 latitude: 31.68971
 longitude: -88.63039
 postcode: "39367"
 city: Waynesboro
-street: "Azalea Drive"
-housenumber: 1350
-phone: "+1 601-735-9716"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/785/waynesboro-ms/whats-new"
+street: Azalea Drive
+housenumber: "1350"
+phone: +1 601-735-9716
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/785/waynesboro-ms/whats-new

@@ -4,8 +4,8 @@ latitude: 32.28503
 longitude: -90.0414
 postcode: "39208"
 city: Pearl
-street: "Highway 80 East"
-housenumber: 5778
-phone: "+1 601-664-6787"
-opening_hours: "Mo-Tu 10:00-21:00; We-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/ms/pearl/5778-hwy-80-e"
+street: Highway 80 East
+housenumber: "5778"
+phone: +1 601-664-6787
+opening_hours: Mo-Tu 10:00-21:00; We-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/ms/pearl/5778-hwy-80-e

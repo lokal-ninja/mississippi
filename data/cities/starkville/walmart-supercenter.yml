@@ -1,11 +1,11 @@
 id: 71460874
-type: way
+type: node
 latitude: 33.44488
 longitude: -88.85261
 postcode: "39759"
 city: Starkville
-street: "Highway 12 West"
-housenumber: 1010
-phone: "+1 662-324-0374"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/112/starkville-ms/whats-new"
+street: Highway 12 West
+housenumber: "1010"
+phone: +1 662-324-0374
+opening_hours: 24/7
+website: https://www.walmart.com/store/112/starkville-ms/whats-new

@@ -1,11 +1,11 @@
 id: 904048429
-type: way
+type: node
 latitude: 31.60083
 longitude: -89.19978
 postcode: "39437"
 city: Ellisville
-street: "Front Street"
-housenumber: 503
-phone: "+1-601-477-8192"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://www.cornermarketms.com"
+street: Front Street
+housenumber: "503"
+phone: +1-601-477-8192
+opening_hours: Mo-Su 07:00-21:00
+website: https://www.cornermarketms.com

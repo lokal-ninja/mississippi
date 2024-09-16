@@ -1,11 +1,11 @@
 id: 1234909531
-type: way
+type: node
 latitude: 30.82778
 longitude: -89.52253
 postcode: ""
 city: Poplarville
-street: "South Main Street"
-housenumber: 1405
+street: South Main Street
+housenumber: "1405"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ms/poplarville/926"
+website: https://www.dollargeneral.com/store-directory/ms/poplarville/926

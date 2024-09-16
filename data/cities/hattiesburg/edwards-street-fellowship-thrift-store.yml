@@ -1,11 +1,11 @@
 id: 383212116
-type: way
+type: node
 latitude: 31.30486
 longitude: -89.32664
 postcode: "39402"
 city: Hattiesburg
-street: "Lincoln Road"
-housenumber: 2315
-phone: "+1 (601) 602-2619"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-14:00"
-website: "https://www.edwardsstreetfellowship.org/thrift-store.html"
+street: Lincoln Road
+housenumber: "2315"
+phone: +1 (601) 602-2619
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-14:00
+website: https://www.edwardsstreetfellowship.org/thrift-store.html

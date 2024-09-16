@@ -1,11 +1,11 @@
 id: 1047309632
-type: way
+type: node
 latitude: 30.85653
 longitude: -89.13897
 postcode: "39577"
 city: Wiggins
-street: "South Magnolia Drive"
-housenumber: 316
-phone: "+1 601 928 4010"
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "http://www.klozklozet.com"
+street: South Magnolia Drive
+housenumber: "316"
+phone: +1 601 928 4010
+opening_hours: Mo-Sa 09:00-17:00
+website: http://www.klozklozet.com

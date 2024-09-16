@@ -1,11 +1,11 @@
 id: 468096937
-type: way
+type: node
 latitude: 31.60756
 longitude: -89.19981
 postcode: "39437"
 city: Ellisville
-street: "Hill Street"
-housenumber: 501
-phone: "+1 (601) 477-3807"
-opening_hours: "Mo-Sa 07:00-21:00; Su 09:00-19:00"
-website: "https://www.autozone.com/locations/ms/ellisville/501-hill-st.html"
+street: Hill Street
+housenumber: "501"
+phone: +1 (601) 477-3807
+opening_hours: Mo-Sa 07:00-21:00; Su 09:00-19:00
+website: https://www.autozone.com/locations/ms/ellisville/501-hill-st.html

@@ -1,11 +1,11 @@
 id: 1269162212
-type: way
+type: node
 latitude: 33.75317
 longitude: -90.71796
 postcode: "38732"
 city: Cleveland
-street: "North Chrisman Avenue"
-housenumber: 604
+street: North Chrisman Avenue
+housenumber: "604"
 phone: ""
 opening_hours: ""
 website: ""

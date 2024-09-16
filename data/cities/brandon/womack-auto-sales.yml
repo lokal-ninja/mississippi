@@ -1,11 +1,11 @@
 id: 430275552
-type: way
+type: node
 latitude: 32.27286
 longitude: -89.99056
 postcode: "39042"
 city: Brandon
-street: "West Government Street"
-housenumber: 
+street: West Government Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

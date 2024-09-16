@@ -1,11 +1,11 @@
 id: 1253815136
-type: way
+type: node
 latitude: 34.96646
 longitude: -90.00361
 postcode: "38637"
 city: Horn Lake
-street: "Interstate Boulevard"
-housenumber: 7260
-phone: "+1 662-349-6080"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Southaven/MS/Horn-Lake/38637/2903"
+street: Interstate Boulevard
+housenumber: "7260"
+phone: +1 662-349-6080
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Southaven/MS/Horn-Lake/38637/2903

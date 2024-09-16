@@ -1,11 +1,11 @@
 id: 468096963
-type: way
+type: node
 latitude: 31.60582
 longitude: -89.19776
 postcode: "39437"
 city: Ellisville
-street: "Hill Street"
-housenumber: 304
-phone: "+1 (601) 477-9990"
-opening_hours: "Mo-Su 05:00-23:59"
-website: "http://www.keithsuperstore.com/"
+street: Hill Street
+housenumber: "304"
+phone: +1 (601) 477-9990
+opening_hours: Mo-Su 05:00-23:59
+website: http://www.keithsuperstore.com/

@@ -1,11 +1,11 @@
 id: 1195288296
-type: way
+type: node
 latitude: 34.95641
 longitude: -89.99169
 postcode: "38671"
 city: Southaven
-street: "Towne Center Drive"
-housenumber: 6554
-phone: "+1 662-349-0684"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/southaven-ms-670"
+street: Towne Center Drive
+housenumber: "6554"
+phone: +1 662-349-0684
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/southaven-ms-670

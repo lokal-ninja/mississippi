@@ -1,11 +1,11 @@
 id: 166065615
-type: way
+type: node
 latitude: 30.43004
 longitude: -89.09443
 postcode: "39503"
 city: Gulfport
-street: "Creosote Road"
-housenumber: 15220
-phone: "+1 228-867-9925"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/gulfport/ms/gulfport/39503/2901"
+street: Creosote Road
+housenumber: "15220"
+phone: +1 228-867-9925
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/gulfport/ms/gulfport/39503/2901

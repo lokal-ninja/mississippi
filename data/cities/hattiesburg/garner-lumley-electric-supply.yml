@@ -1,11 +1,11 @@
 id: 383537630
-type: way
+type: node
 latitude: 31.32919
 longitude: -89.28784
 postcode: "39401"
 city: Hattiesburg
-street: "East Pine Street"
-housenumber: 318
+street: East Pine Street
+housenumber: "318"
 phone: ""
 opening_hours: ""
 website: ""

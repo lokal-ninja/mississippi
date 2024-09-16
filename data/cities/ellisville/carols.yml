@@ -1,11 +1,11 @@
 id: 1186987313
-type: way
+type: node
 latitude: 31.60498
 longitude: -89.19519
 postcode: "39437"
 city: Ellisville
-street: "Holly Street"
-housenumber: 102
+street: Holly Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

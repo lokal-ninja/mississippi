@@ -1,11 +1,11 @@
 id: 1195286625
-type: way
+type: node
 latitude: 34.9595
 longitude: -89.99727
 postcode: "38671"
 city: Southaven
-street: "Southcrest Parkway"
-housenumber: 6811
-phone: "+1 662-349-1838"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/848-southaven-ms"
+street: Southcrest Parkway
+housenumber: "6811"
+phone: +1 662-349-1838
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/848-southaven-ms

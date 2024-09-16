@@ -1,11 +1,11 @@
 id: 319054920
-type: way
+type: node
 latitude: 31.32527
 longitude: -89.32799
 postcode: "39401"
 city: Hattiesburg
-street: "Hardy Street"
-housenumber: 2507
+street: Hardy Street
+housenumber: "2507"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/hattiesburg-ms-pharmacies/2507-hardy-st-hattiesburg-ms-39401/storeid=3124"
+website: https://www.cvs.com/store-locator/hattiesburg-ms-pharmacies/2507-hardy-st-hattiesburg-ms-39401/storeid=3124

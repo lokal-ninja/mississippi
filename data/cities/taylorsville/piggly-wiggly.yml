@@ -1,11 +1,11 @@
 id: 777319969
-type: way
+type: node
 latitude: 31.831
 longitude: -89.43207
 postcode: "39168"
 city: Taylorsville
-street: "Welcome Street"
-housenumber: 221
-phone: "+1 601-785-4640"
+street: Welcome Street
+housenumber: "221"
+phone: +1 601-785-4640
 opening_hours: ""
 website: ""

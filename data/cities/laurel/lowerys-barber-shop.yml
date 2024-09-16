@@ -1,11 +1,11 @@
 id: 1226226888
-type: way
+type: node
 latitude: 31.68761
 longitude: -89.14701
 postcode: "39440"
 city: Laurel
-street: "Congress Street"
-housenumber: 1604
+street: Congress Street
+housenumber: "1604"
 phone: ""
 opening_hours: ""
 website: ""

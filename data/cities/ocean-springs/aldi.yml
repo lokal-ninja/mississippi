@@ -1,11 +1,11 @@
 id: 1124827433
-type: way
+type: node
 latitude: 30.411
 longitude: -88.76542
 postcode: "39564"
 city: Ocean Springs
-street: "Bienville Boulevard"
-housenumber: 3801
+street: Bienville Boulevard
+housenumber: "3801"
 phone: ""
-opening_hours: "Mo-Su 09:00-20:00"
+opening_hours: Mo-Su 09:00-20:00
 website: ""

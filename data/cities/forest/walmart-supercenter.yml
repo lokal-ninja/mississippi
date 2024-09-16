@@ -1,11 +1,11 @@
 id: 656875140
-type: way
+type: node
 latitude: 32.33878
 longitude: -89.48682
 postcode: "39074"
 city: Forest
-street: "Highway 35 South"
-housenumber: 1309
-phone: "+1 601-469-2122"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1059/forest-ms/whats-new"
+street: Highway 35 South
+housenumber: "1309"
+phone: +1 601-469-2122
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1059/forest-ms/whats-new

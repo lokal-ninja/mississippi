@@ -1,11 +1,11 @@
 id: 646812055
-type: way
+type: node
 latitude: 32.76805
 longitude: -89.12727
 postcode: "39350"
 city: Philadelphia
-street: "West Beacon Street"
-housenumber: 1002
-phone: "+1 601-656-4166"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/205/philadelphia-ms/whats-new"
+street: West Beacon Street
+housenumber: "1002"
+phone: +1 601-656-4166
+opening_hours: 24/7
+website: https://www.walmart.com/store/205/philadelphia-ms/whats-new

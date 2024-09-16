@@ -4,8 +4,8 @@ latitude: 33.45023
 longitude: -88.83514
 postcode: "39759"
 city: Starkville
-street: "Mississippi 12 West"
-housenumber: 621
-phone: "+1 662-384-5316"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/starkville-ms-1698"
+street: Mississippi 12 West
+housenumber: "621"
+phone: +1 662-384-5316
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/starkville-ms-1698

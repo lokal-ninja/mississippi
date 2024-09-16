@@ -1,11 +1,11 @@
 id: 570548549
-type: way
+type: node
 latitude: 34.3636
 longitude: -89.57019
 postcode: "38655"
 city: Oxford
-street: "West Oxford Loop"
-housenumber: 2612
+street: West Oxford Loop
+housenumber: "2612"
 phone: ""
 opening_hours: ""
 website: ""

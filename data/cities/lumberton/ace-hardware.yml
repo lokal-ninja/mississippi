@@ -1,11 +1,11 @@
 id: 1007824929
-type: way
+type: node
 latitude: 30.99979
 longitude: -89.43561
 postcode: "39455"
 city: Lumberton
-street: "East Main Street"
-housenumber: 772
-phone: "+1 601-688-3006"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 11:00-17:00"
-website: "https://www.acehardware.com/store-details/17827"
+street: East Main Street
+housenumber: "772"
+phone: +1 601-688-3006
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 11:00-17:00
+website: https://www.acehardware.com/store-details/17827

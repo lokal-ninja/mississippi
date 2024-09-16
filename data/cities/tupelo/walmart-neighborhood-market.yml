@@ -1,11 +1,11 @@
 id: 860468806
-type: way
+type: node
 latitude: 34.25493
 longitude: -88.71443
 postcode: "38801"
 city: Tupelo
-street: "South Gloster Street"
-housenumber: 316
-phone: "+1 662-350-6921"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/4619/tupelo-ms/whats-new"
+street: South Gloster Street
+housenumber: "316"
+phone: +1 662-350-6921
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/4619/tupelo-ms/whats-new

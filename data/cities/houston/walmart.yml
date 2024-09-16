@@ -1,11 +1,11 @@
 id: 1084520471
-type: way
+type: node
 latitude: 33.89493
 longitude: -88.98977
 postcode: "38851"
 city: Houston
-street: "East Madison Street"
-housenumber: 660
-phone: "+1 662-456-5711"
-opening_hours: "Mo-Sa 06:00-21:00;Su 12:00-19:00"
-website: "https://www.walmart.com/store/411/houston-ms/whats-new"
+street: East Madison Street
+housenumber: "660"
+phone: +1 662-456-5711
+opening_hours: Mo-Sa 06:00-21:00;Su 12:00-19:00
+website: https://www.walmart.com/store/411/houston-ms/whats-new

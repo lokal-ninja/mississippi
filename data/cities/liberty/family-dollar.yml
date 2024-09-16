@@ -1,11 +1,11 @@
 id: 1235139768
-type: way
+type: node
 latitude: 31.15802
 longitude: -90.80562
 postcode: "39645"
 city: Liberty
-street: "East Main Street"
-housenumber: 332
+street: East Main Street
+housenumber: "332"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1068838185
-type: way
+type: node
 latitude: 31.6925
 longitude: -89.14699
 postcode: "39440"
 city: Laurel
-street: "North 16th Avenue"
-housenumber: 316
-phone: "601 498 8295"
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "https://patsfloristgifts.com/"
+street: North 16th Avenue
+housenumber: "316"
+phone: 601 498 8295
+opening_hours: Mo-Sa 09:00-17:00
+website: https://patsfloristgifts.com/

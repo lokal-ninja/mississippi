@@ -1,11 +1,11 @@
 id: 599957151
-type: way
+type: node
 latitude: 34.35969
 longitude: -89.58656
 postcode: "38655"
 city: Oxford
 street: ""
-housenumber: 459
+housenumber: "459"
 phone: ""
 opening_hours: ""
 website: ""

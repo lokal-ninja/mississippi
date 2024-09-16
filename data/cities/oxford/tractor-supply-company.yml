@@ -1,11 +1,11 @@
 id: 1094908518
-type: way
+type: node
 latitude: 34.38296
 longitude: -89.49511
 postcode: "38655"
 city: Oxford
-street: "Ed Perry Boulevard"
-housenumber: 9
-phone: "+1 662-234-7191"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Ed Perry Boulevard
+housenumber: "9"
+phone: +1 662-234-7191
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

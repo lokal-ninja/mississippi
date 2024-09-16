@@ -1,11 +1,11 @@
 id: 394668651
-type: way
+type: node
 latitude: 32.34002
 longitude: -90.3305
 postcode: "39056"
 city: Clinton
-street: "Jefferson Street"
-housenumber: 310
-phone: "601-910-7008"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://www.shopjamesandleigh.com/"
+street: Jefferson Street
+housenumber: "310"
+phone: 601-910-7008
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://www.shopjamesandleigh.com/

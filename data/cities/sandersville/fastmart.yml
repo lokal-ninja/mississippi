@@ -1,11 +1,11 @@
 id: 616782313
-type: way
+type: node
 latitude: 31.78728
 longitude: -89.0321
 postcode: "39477"
 city: Sandersville
-street: "North Front Street"
-housenumber: 305
+street: North Front Street
+housenumber: "305"
 phone: ""
 opening_hours: ""
 website: ""

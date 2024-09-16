@@ -1,11 +1,11 @@
 id: 421471600
-type: way
+type: node
 latitude: 34.36703
 longitude: -89.52191
 postcode: "38655"
 city: Oxford
-street: "Jackson Avenue East"
-housenumber: 818
+street: Jackson Avenue East
+housenumber: "818"
 phone: ""
 opening_hours: ""
 website: ""

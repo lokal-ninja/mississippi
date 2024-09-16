@@ -1,11 +1,11 @@
 id: 270909325
-type: way
+type: node
 latitude: 34.36146
 longitude: -89.56813
 postcode: "38655"
 city: Oxford
-street: "Jackson Avenue West"
-housenumber: 2590
-phone: "+1-662-234-1068"
+street: Jackson Avenue West
+housenumber: "2590"
+phone: +1-662-234-1068
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/ms/oxford/2590-jackson-ave-w"
+website: https://stores.advanceautoparts.com/ms/oxford/2590-jackson-ave-w

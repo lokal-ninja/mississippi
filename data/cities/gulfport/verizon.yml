@@ -1,11 +1,11 @@
 id: 166070505
-type: way
+type: node
 latitude: 30.42296
 longitude: -89.09173
 postcode: "39503"
 city: Gulfport
-street: "Highway 49"
-housenumber: 9368
+street: Highway 49
+housenumber: "9368"
 phone: ""
 opening_hours: ""
 website: ""

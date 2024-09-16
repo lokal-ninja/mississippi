@@ -1,11 +1,11 @@
 id: 285729843
-type: way
+type: node
 latitude: 34.96016
 longitude: -89.99365
 postcode: "38671"
 city: Southaven
-street: "Goodman Road West"
-housenumber: 225
-phone: "+1 662-349-2795"
-opening_hours: "Mo-Th 08:00-22:00; Fr-Sa 09:00-22:30; Su 09:00-22:00"
-website: "https://stores.burlington.com/ms/southaven/536"
+street: Goodman Road West
+housenumber: "225"
+phone: +1 662-349-2795
+opening_hours: Mo-Th 08:00-22:00; Fr-Sa 09:00-22:30; Su 09:00-22:00
+website: https://stores.burlington.com/ms/southaven/536

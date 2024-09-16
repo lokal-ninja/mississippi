@@ -1,11 +1,11 @@
 id: 662502058
-type: way
+type: node
 latitude: 31.31601
 longitude: -89.29399
 postcode: "39401"
 city: Hattiesburg
-street: "Katie Avenue"
-housenumber: 306
-phone: "+1 (601) 255-5712"
+street: Katie Avenue
+housenumber: "306"
+phone: +1 (601) 255-5712
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1311908856
-type: way
+type: node
 latitude: 33.05527
 longitude: -89.5676
 postcode: "39090"
 city: Kosciusko
-street: "Veterans Memorial Drive"
-housenumber: 220
-phone: "+1 662-289-3422"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/239/kosciusko-ms/whats-new"
+street: Veterans Memorial Drive
+housenumber: "220"
+phone: +1 662-289-3422
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/239/kosciusko-ms/whats-new

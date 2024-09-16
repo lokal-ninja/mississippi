@@ -1,11 +1,11 @@
 id: 383188712
-type: way
+type: node
 latitude: 31.31192
 longitude: -89.30846
 postcode: "39401"
 city: Hattiesburg
-street: "West Pine Street"
-housenumber: 1501
+street: West Pine Street
+housenumber: "1501"
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:00"
-website: "https://www.waltmasseyauto.com/"
+opening_hours: Mo-Sa 07:00-19:00
+website: https://www.waltmasseyauto.com/

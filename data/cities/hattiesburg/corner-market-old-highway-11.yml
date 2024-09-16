@@ -1,11 +1,11 @@
 id: 654334670
-type: way
+type: node
 latitude: 31.31192
 longitude: -89.40932
 postcode: "39402"
 city: Hattiesburg
-street: "Old Highway 11"
-housenumber: 5266
-phone: "+1 (601) 268-9610"
-opening_hours: "Mo-Su 07:00-21:00"
+street: Old Highway 11
+housenumber: "5266"
+phone: +1 (601) 268-9610
+opening_hours: Mo-Su 07:00-21:00
 website: ""

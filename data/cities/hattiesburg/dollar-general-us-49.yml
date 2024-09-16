@@ -1,11 +1,11 @@
 id: 882254824
-type: way
+type: node
 latitude: 31.3872
 longitude: -89.37272
 postcode: "39401"
 city: Hattiesburg
-street: "US 49"
-housenumber: 
+street: US 49
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ms/hattiesburg/8538"
+website: https://www.dollargeneral.com/store-directory/ms/hattiesburg/8538
