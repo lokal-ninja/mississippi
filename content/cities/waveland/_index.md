@@ -1,6 +1,6 @@
 ---
 title: Waveland
 url: /waveland/
-latitude: 30.31
-longitude: -89.38
+latitude: 30.304
+longitude: -89.384
 ---
