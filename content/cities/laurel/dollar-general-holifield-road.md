@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /laurel/dollar-general-indian-springs-road/
+url: /laurel/dollar-general-holifield-road/
 shop: variety store
 ---
