@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /iuka/walmart/
-shop: supermarket
+shop: department store
 ---
