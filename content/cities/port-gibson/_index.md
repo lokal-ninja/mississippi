@@ -1,6 +1,6 @@
 ---
 title: Port Gibson
 url: /port-gibson/
-latitude: 31.957
-longitude: -90.987
+latitude: 31.958
+longitude: -90.986
 ---
