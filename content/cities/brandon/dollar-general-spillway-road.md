@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /brandon/dollar-general-hwy-471/
+url: /brandon/dollar-general-spillway-road/
 shop: variety store
 ---
