@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /jackson/walmart-supercenter-greenway-drive/
+url: /byram/walmart-supercenter/
 shop: supermarket
 ---
