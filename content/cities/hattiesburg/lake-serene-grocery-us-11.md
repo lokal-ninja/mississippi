@@ -1,5 +1,5 @@
 ---
 title: "Lake Serene Grocery"
-url: /hattiesburg/lake-serene-grocery-monroe-road/
+url: /hattiesburg/lake-serene-grocery-us-11/
 shop: convenience
 ---
