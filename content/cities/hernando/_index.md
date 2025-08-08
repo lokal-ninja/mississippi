@@ -1,6 +1,6 @@
 ---
 title: Hernando
 url: /hernando/
-latitude: 34.823
-longitude: -89.969
+latitude: 34.824
+longitude: -89.973
 ---
