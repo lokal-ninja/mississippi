@@ -1,5 +1,5 @@
 ---
 title: "Double Quick"
-url: /indianola/double-quick-us-82-west/
+url: /indianola/double-quick-b-b-king-road/
 shop: convenience
 ---
