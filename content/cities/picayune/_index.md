@@ -1,6 +1,6 @@
 ---
 title: Picayune
 url: /picayune/
-latitude: 30.519
-longitude: -89.65
+latitude: 30.474
+longitude: -89.692
 ---
