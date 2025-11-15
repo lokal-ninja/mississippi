@@ -1,6 +1,6 @@
 ---
 title: Indianola
 url: /indianola/
-latitude: 33.446
-longitude: -90.651
+latitude: 33.439
+longitude: -90.643
 ---
