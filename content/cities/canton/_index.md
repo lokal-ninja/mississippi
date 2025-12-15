@@ -1,6 +1,6 @@
 ---
 title: Canton
 url: /canton/
-latitude: 32.608
-longitude: -90.057
+latitude: 32.601
+longitude: -90.071
 ---
