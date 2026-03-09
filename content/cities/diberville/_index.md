@@ -1,6 +1,6 @@
 ---
-title: D'Iberville
+title: Diberville
 url: /diberville/
-latitude: 30.46
-longitude: -88.896
+latitude: 30.437
+longitude: -88.892
 ---
