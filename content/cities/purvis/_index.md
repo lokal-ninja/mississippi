@@ -1,6 +1,6 @@
 ---
 title: Purvis
 url: /purvis/
-latitude: 31.144
-longitude: -89.404
+latitude: 31.14
+longitude: -89.373
 ---
