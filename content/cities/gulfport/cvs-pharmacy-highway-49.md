@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
-url: /gulfport/cvs-pharmacy-25th-avenue/
+url: /gulfport/cvs-pharmacy-highway-49/
 shop: chemist
 ---
