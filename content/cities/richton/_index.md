@@ -1,6 +1,6 @@
 ---
 title: Richton
 url: /richton/
-latitude: 31.352
-longitude: -88.936
+latitude: 31.355
+longitude: -88.935
 ---
