@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /hattiesburg/walmart-supercenter-us-49/
+url: /hattiesburg/walmart-supercenter-us-98/
 shop: supermarket
 ---
